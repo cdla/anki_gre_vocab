@@ -67,6 +67,18 @@ class Anki(object):
 
         return self
 
+    def sentence_mode(self):
+        import tkinter
+        from tkinter import simpledialog
+
+        application_window = tkinter.Tk()
+        with open(self.output_file,"r") as csvfile:
+            reader = csv.reader(csvfile, delimiter='\t')
+            for row in reader:
+                test = simpledialog.askstring("Input",
+        "Write a sentence for the word: \n \n %s \n %s"%(row[0],row[1]), parent = application_window)
+
+        return self
 
 if __name__ == "__main__":
 
@@ -83,16 +95,19 @@ if __name__ == "__main__":
                         action="store_true", help='manually edit mode allows for the editing of an existing deck file to manually edit definitions')
     parser.add_argument('-v','--verbose', dest='verbose',default=False,
                         action="store_true", help='verbose mode')
+    parser.add_argument('--sentence', dest='sentence_mode', default = False, action="store_true", help="sentence mode for learning words")
 
     args = parser.parse_args()
 
-    if args.edit_mode == False:
+    if args.edit_mode == True:
+        anki = Anki(args.vocab_file, args.output_file,args.error_file)
+        defs_list = anki.edit_cards()
+    elif args.sentence_mode == True:
+        anki = Anki(args.vocab_file, args.output_file,args.error_file)
+        sentences = anki.sentence_mode()
+    else:
         anki = Anki(args.vocab_file, args.output_file,args.error_file)
         vocab_list = anki.read_vocab_file()
         defs_list, error_list = anki.define_vocab(vocab_list, args.verbose)
         anki_deck = anki.make_deck(vocab_list,defs_list,args.verbose)
         error_log = anki.write_errors(error_list,args.verbose)
-
-    else:
-        anki = Anki(args.vocab_file, args.output_file,args.error_file)
-        defs_list = anki.edit_cards()
