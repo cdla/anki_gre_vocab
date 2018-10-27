@@ -1,0 +1,1293 @@
+sangfroidperilouslicentiousebullientabasement
+abated	{'Verb': ['make less active or intense', 'become less in amount or intensity']}
+aberrant	{'Noun': ['one whose behavior departs substantially from the norm of a group'], 'Adjective': ['markedly different from an accepted norm']}
+abhor	{'Verb': ['find repugnant']}
+abhorrent	{'Adjective': ['offensive to the mind']}
+abjured	{'Verb': ['formally reject or disavow a formerly held belief, usually under pressure']}
+abolition	{'Noun': ['the act of abolishing a system or practice or institution (especially abolishing slavery']}
+abreast	{'Adjective': ['being up to particular standard or level especially in being up to date in knowledge'], 'Adverb': ['alongside each other, facing in the same direction']}
+abridge	{'Verb': ['reduce in scope while retaining essential elements', 'lessen, diminish, or curtail']}
+abstruse	{'Adjective': ['difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge']}
+accolades	{'Noun': ['a tangible symbol signifying approval or distinction']}
+accrue	{'Verb': ['grow by addition', 'come into the possession of']}
+acculturation	{'Noun': ['the adoption of the behavior patterns of the surrounding culture', 'all the knowledge and values shared by a society', 'the process of assimilating new ideas into an existing cognitive structure']}
+acerbic	{'Adjective': ['sour or bitter in taste', 'harsh or corrosive in tone']}
+acrimony	{'Noun': ['a rough and bitter manner']}
+actuarial	{'Adjective': ['of or relating to the work of an actuary']}
+acumen	{'Noun': ['a tapering point', 'shrewdness shown by keen insight']}
+adherents	{'Noun': ['someone who believes and helps to spread the doctrine of another']}
+adherence	{'Noun': ['faithful support for a cause or political party or religion', 'the property of sticking together (as of glue and wood']}
+adroit	{'Adjective': ['quick or skillful or adept in action or thought']}
+adulatory	{'Adjective': ['obsequiously complimentary']}
+aesthetic	{'Noun': ['(philosophy'], 'Adjective': ['relating to or dealing with the subject of aesthetics', 'concerning or characterized by an appreciation of beauty or good taste', 'aesthetically pleasing']}
+aesthetics	{'Noun': ['(philosophy', 'emphasizing the evaluative criteria that are applied to art']}
+affability	{'Noun': ['a disposition to be friendly and approachable (easy to talk to']}
+affectless
+affinity	{'Noun': ['(immunology', '(anthropology', '(biology', 'a close connection marked by community of interests or similarity in nature or character', 'the force attracting atoms to each other and binding them together in a molecule', 'inherent resemblance between persons or things', 'a natural attraction or feeling of kinship']}
+affirm	{'Verb': ['establish or strengthen as with new evidence or facts', 'to declare or affirm solemnly and formally as true', 'say yes to']}
+affluent	{'Noun': ['an affluent person; a person who is financially well off', 'a branch that flows into the main stream'], 'Adjective': ['having an abundant supply of money or possessions of value']}
+agglomerated	{'Verb': ['form into one cluster'], 'Adjective': ['clustered together but not coherent']}
+aggrieve	{'Verb': ['infringe on the rights of', 'cause to feel sorrow']}
+aghast	{'Adjective': ['struck with fear, dread, or consternation']}
+agrarian	{'Adjective': ['relating to farming or agriculture', 'or agricultural']}
+akimbo	{'Adjective': ['(used of arms and legs'], 'Adverb': ['with hands on hips and elbows extending outward']}
+albatross	{'Noun': ['(figurative', 'large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight']}
+alienation	{'Noun': ['the feeling of being alienated from other people', 'separation resulting from hostility', 'the action of alienating; the action of causing to become unfriendly']}
+allegorical	{'Adjective': ['used in or characteristic of or containing allegory']}
+alluring	{'Verb': ['dispose or incline or entice to'], 'Adjective': ['highly attractive and able to arouse hope or desire']}
+amalgamate	{'Verb': ['to bring or combine together or with something else'], 'Adjective': ['joined together into a whole']}
+amateurs	{'Noun': ['someone who pursues a study or sport as a pastime', 'an athlete who does not play for pay']}
+ameliorate	{'Verb': ['to make better', 'get better']}
+amenable	{'Adjective': ['disposed or willing to conform', 'responsive to suggestions and influences', 'open to being acted upon in a certain way', 'liable to answer to a higher authority']}
+amended	{'Verb': ['make amendments to', 'to make better', 'set straight or right'], 'Adjective': ['of legislation', 'modified for the better']}
+amiable	{'Adjective': ['disposed to please', 'diffusing warmth and friendliness']}
+amicable	{'Adjective': ['characterized by friendship and good will']}
+amicably	{'Adverb': ['in an amicable manner']}
+amity	{'Noun': ['a cordial disposition', 'a state of friendship and cordiality']}
+amorality	{'Noun': ['the quality of being amoral']}
+amorphous	{'Adjective': ['having no definite form or distinct shape', 'lacking the system or structure characteristic of living bodies', '(of a group of people or an organization', 'unclear because vague or badly organized', 'without real or apparent crystalline form']}
+amortized	{'Verb': ['liquidate gradually']}
+anachronistic	{'Adjective': ['chronologically misplaced']}
+anarchist	{'Noun': ['an advocate of anarchism']}
+anathema	{'Noun': ['a detested person', 'a formal ecclesiastical curse accompanied by excommunication']}
+anecdotal	{'Adjective': ['having the character of an anecdote', 'characterized by or given to telling anecdotes']}
+anecdote	{'Noun': ['short account of an incident (especially a biographical one']}
+anemic	{'Adjective': ['lacking vigor or energy', 'relating to anemia or suffering from anemia']}
+annotated	{'Verb': ['add explanatory notes to or supply with critical comments', 'provide interlinear explanations for words or phrases']}
+anomalies	{'Noun': ['deviation from the normal or common order or form or rule', 'a person who is unusual', '(astronomy', 'as observed from the sun']}
+anomalous	{'Adjective': ['deviating from the general or common order or type']}
+anomaly	{'Noun': ['deviation from the normal or common order or form or rule', 'a person who is unusual', '(astronomy', 'as observed from the sun']}
+anomie	{'Noun': ['personal state of isolation and anxiety resulting from a lack of social control and regulation', 'lack of moral standards in a society']}
+antagonism	{'Noun': ['a state of deep-seated ill-will', 'the relation between opposing principles or forces or factors', 'an actively expressed feeling of dislike and hostility', '(biochemistry']}
+antagonistic	"{'Adjective': ['indicating opposition or resistance', 'characterized by antagonism or antipathy', 'arousing animosity or hostility', ""used especially of drugs or muscles that counteract or neutralize each other's effect"", 'incapable of harmonious association']}"
+antedated	{'Verb': ['be earlier in time; go back further', 'establish something as being earlier relative to something else']}
+antediluvian	{'Noun': ['any of the early patriarchs who lived prior to the Noachian deluge', 'a very old person'], 'Adjective': ['of or relating to the period before the biblical flood', 'so extremely old as seeming to belong to an earlier period']}
+anticipated	{'Verb': ['regard something as probable or likely', 'act in advance of; deal with ahead of time', 'realize beforehand', 'make a prediction about; tell in advance', 'be excited or anxious about', 'be a forerunner of or occur earlier than'], 'Adjective': ['expected hopefully']}
+antipathy	{'Noun': ['a feeling of intense dislike', 'the object of a feeling of intense aversion; something to be avoided']}
+antiquated	{'Verb': ['make obsolete or old-fashioned', 'give an antique appearance to'], 'Adjective': ['so extremely old as seeming to belong to an earlier period']}
+antithetical	{'Adjective': ['sharply contrasted in character or purpose']}
+apathetic	{'Adjective': ['showing little or no emotion or animation', 'marked by a lack of interest']}
+apathy	{'Noun': ['an absence of emotion or enthusiasm', 'the trait of lacking enthusiasm for or interest in things generally']}
+ape	{'Noun': ['any of various primates with short tails or no tail at all', 'someone who copies the words or behavior of another', 'person who resembles a nonhuman primate'], 'Verb': ['imitate uncritically and in every aspect', 'represent in or produce a caricature of']}
+apex	{'Noun': ['the highest point (of something', 'the point on the celestial sphere toward which the sun and solar system appear to be moving relative to the fixed stars']}
+aphorism	{'Noun': ['a short pithy instructive saying']}
+apocalyptic	{'Adjective': ['prophetic of devastation or ultimate doom', 'of or relating to an apocalypse']}
+apocrypha	{'Noun': ['14 books of the Old Testament included in the Vulgate (except for II Esdras', 'except the Coptic Church']}
+apocryphal	{'Adjective': ['being of questionable authenticity', 'of or belonging to the Apocrypha']}
+apologia	{'Noun': ['a formal written defense of something you believe in strongly']}
+apologist	{'Noun': ['a person who argues to defend or justify some policy or institution']}
+appease	{'Verb': ['cause to be more favorably inclined; gain the good will of', 'overcome or allay', 'make peace with']}
+appellations	{'Noun': ['identifying word or words by which someone or something is called and classified or distinguished from others', 'a geographical indication used to identify where the grapes for a wine are grown']}
+apportioned	"{'Verb': ['distribute according to a plan or set apart for a special purpose', ""give out as one's portion or share""], 'Adjective': ['given out in portions']}"
+approbation	{'Noun': ['official approval', 'official recognition or approval']}
+appropriate	{'Verb': ['give or assign a resource to a particular person or cause', 'take possession of by force, as after an invasion'], 'Adjective': ['suitable for a particular person or place or condition etc']}
+apportioned	"{'Verb': ['distribute according to a plan or set apart for a special purpose', ""give out as one's portion or share""], 'Adjective': ['given out in portions']}"
+approbation	{'Noun': ['official approval', 'official recognition or approval']}
+appropriate	{'Verb': ['give or assign a resource to a particular person or cause', 'take possession of by force, as after an invasion'], 'Adjective': ['suitable for a particular person or place or condition etc']}
+appropriation	{'Noun': ['money set aside (as by a legislature', 'incorporation by joining or uniting', 'a deliberate act of acquisition of something, often without the permission of the owner']}
+aptitudes	{'Noun': ['inherent ability']}
+aquiline	"{'Adjective': [""curved down like an eagle's beak""]}"
+arcades	{'Noun': ['a covered passageway with shops and stalls on either side', 'a structure composed of a series of arches supported by columns']}
+Arcadian	{'Noun': ['an inhabitant of Arcadia'], 'Adjective': ['(used with regard to idealized country life']}
+archaically
+arduous	{'Adjective': ['characterized by effort to the point of exhaustion; especially physical effort', 'taxing to the utmost; testing powers of endurance', 'difficult to accomplish; demanding considerable mental effort and skill']}
+arid	{'Adjective': ['lacking sufficient water or rainfall', 'lacking vitality or spirit; lifeless']}
+aristocratic	{'Adjective': ['belonging to or characteristic of the nobility or aristocracy']}
+arresting	{'Verb': ['take into custody', 'hold back, as of a danger or an enemy; check the expansion or influence of', 'attract and fix', 'cause to stop'], 'Adjective': ['commanding attention']}
+artful	{'Adjective': ['not straightforward or candid; giving a false appearance of frankness', 'marked by skill in achieving a desired end especially with cunning or craft']}
+artfully	{'Adverb': ['in an artful manner', 'in a disingenuous manner', 'in an artful manner']}
+articulate	{'Verb': ['provide with a joint', 'put into words or an expression', 'speak, pronounce, or utter in a certain way', 'unite by forming a joint or joints', 'express or state clearly'], 'Adjective': ['expressing yourself easily or characterized by clear expressive language', 'consisting of segments held together by joints']}
+artifacts	{'Noun': ['a man-made object taken as a whole']}
+artifices	{'Noun': ['a deceptive maneuver (especially to avoid capture']}
+artisans	{'Noun': ['a skilled worker who practices some trade or handicraft']}
+artless	{'Adjective': ['characterized by an inability to mask your feelings; not devious', 'simple and natural; without cunning or deceit', 'showing lack of art', '(of persons']}
+ascension	{'Noun': ['(Christianity', 'a movement upward', '(New Testament', '(astronomy', 'the act of changing location in an upward direction']}
+ascent	{'Noun': ['an upward slope or grade (as in a road', 'a movement upward', 'the act of changing location in an upward direction']}
+ascertain	{'Verb': ['establish after a calculation, investigation, experiment, survey, or study', 'be careful or certain to do something; make certain of something', 'find out, learn, or determine with certainty, usually by making an inquiry or other effort', 'learn or discover with certainty']}
+ascetic	{'Noun': ['someone who practices self denial as a spiritual discipline'], 'Adjective': ['pertaining to or characteristic of an ascetic or the practice of rigorous self-discipline', 'practicing great self-denial']}
+asceticism	{'Noun': ['the doctrine that through renunciation of worldly pleasures it is possible to achieve a high spiritual or intellectual state', 'the trait of great self-denial (especially refraining from worldly pleasures', 'rigorous self-denial and active self-restraint']}
+askance	{'Adjective': ['(used especially of glances'], 'Adverb': ['with suspicion or disapproval', 'with a side or oblique glance']}
+asperity	{'Noun': ['something hard to endure', 'harshness of manner']}
+assent	{'Noun': ['agreement with a statement or proposal to do something'], 'Verb': ['to agree or express agreement']}
+asserts	"{'Verb': ['state categorically', 'to declare or affirm solemnly and formally as true', ""insist on having one's opinions and rights recognized"", 'postulate positively and assertively']}"
+assiduous	{'Adjective': ['marked by care and persistent effort']}
+assimilation	{'Noun': ['the state of being assimilated; people of different backgrounds come to see themselves as part of a larger national family', 'the social process of absorbing one cultural group into harmony with another', 'the process of absorbing nutrients into the body after digestion', 'a linguistic process by which a sound becomes similar to an adjacent sound', 'the process of assimilating new ideas into an existing cognitive structure', 'in the theories of Jean Piaget: the application of a general schema to a particular instance']}
+assuage	{'Verb': ['cause to be more favorably inclined; gain the good will of', 'satisfy (thirst', 'provide physical relief, as from pain']}
+asylum	{'Noun': ['a shelter from danger or hardship', 'a hospital for mentally incompetent or unbalanced person']}
+asymmetrical	{'Adjective': ['characterized by asymmetry in the spatial arrangement or placement of parts or components', 'irregular in shape or outline']}
+attest	"{'Verb': [""provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes"", 'authenticate, affirm to be true, genuine, or correct, as in an official capacity', 'give testimony in a court of law', 'establish or verify the usage of']}"
+audit	{'Noun': ['an inspection of the accounting procedures and records by a trained accountant or CPA', 'a methodical examination or review of a condition or situation'], 'Verb': ['examine carefully for accuracy with the intent of verification', 'attend academic courses without getting credit']}
+aurora	"{'Noun': ['the first light of day', ""an atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth's magnetic lines of force"", '(Roman mythology']}"
+austerity	{'Noun': ['the trait of great self-denial (especially refraining from worldly pleasures']}
+autodidact	{'Noun': ['a person who has taught himself']}
+auxiliary	{'Noun': ['someone who acts as assistant'], 'Adjective': ['functioning in a supporting capacity', 'furnishing added support']}
+avant garde
+avaricious	{'Adjective': ['immoderately desirous of acquiring e.g. wealth']}
+aver	{'Verb': ['report or maintain', 'to declare or affirm solemnly and formally as true']}
+aver	{'Verb': ['report or maintain', 'to declare or affirm solemnly and formally as true']}
+aversion	{'Noun': ['a feeling of intense dislike', 'the act of turning yourself (or your gaze']}
+balkanized	{'Verb': ['divide a territory into small, hostile states']}
+banal	{'Adjective': ['repeated too often; overfamiliar through overuse']}
+banality	{'Noun': ['a trite or obvious remark']}
+bane	{'Noun': ['something causing misery or death']}
+baneful	{'Adjective': ['exceedingly harmful', 'deadly or sinister']}
+baroque	{'Noun': ['the historic period from about 1600 until 1750 when the baroque style of art, architecture, and music flourished in Europe', 'elaborate and extensive ornamentation in decorative art and architecture that flourished in Europe in the 17th century'], 'Adjective': ['having elaborate symmetrical ornamentation', 'of or relating to or characteristic of the elaborately ornamented style of architecture, art, and music popular in Europe between 1600 and 1750']}
+base	"{'Noun': ['installation from which a military force initiates operations', 'lowest support of a structure', 'a place that the runner must touch before scoring', 'the bottom or lowest part', '(anatomy', 'a lower limit', 'the fundamental assumptions from which something is begun or developed or calculated or explained', 'a support or foundation', 'a phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (DNA or RNA', 'any of various water-soluble compounds capable of turning litmus blue and reacting with an acid to form a salt and water', 'the bottom side of a geometric figure from which the altitude can be constructed', 'the most important or necessary part of something', '(numeration system', 'the place where you are stationed and from which missions start and end', 'a terrorist network intensely opposed to the United States that dispenses money and logistical support and training to a wide variety of radical Islamic terrorist groups; has cells in more than 50 countries', '(linguistics', 'the stock of basic facilities and capital equipment needed for the functioning of a country or area', 'the principal ingredient of a mixture', 'a flat bottom on which something is intended to sit', '(electronics'], 'Verb': ['use as a basis for; found on', 'situate as a center of operations', 'use (purified cocaine'], 'Adjective': ['serving as or forming a base', ""of low birth or station (`base' is archaic in this sense"", 'or lowly', '(used of metals', 'not adhering to ethical or moral principles', 'having or showing an ignoble lack of honor or morality', 'illegitimate', 'debased; not genuine']}"
+baseless	{'Adjective': ['without a basis in reason or fact']}
+bask	{'Verb': ['derive or receive pleasure from; get enjoyment from; take pleasure in', 'be exposed']}
+bedazzling	{'Verb': ['to cause someone to lose clear vision, especially from intense light']}
+bedlam	{'Noun': ['a state of extreme confusion and disorder', 'pejorative terms for an insane asylum']}
+beguiled	{'Verb': ['influence by slyness', 'attract; cause to be enamored'], 'Adjective': ['filled with wonder and delight']}
+belie	{'Verb': ['be in contradiction with', 'represent falsely']}
+belletristic	{'Adjective': ['written and regarded for aesthetic value rather than content']}
+bellicose	{'Adjective': ['having or showing a ready disposition to fight']}
+beneficent	{'Adjective': ['doing or producing good', 'generous in assistance to the poor']}
+benign	{'Adjective': ['not dangerous to health; not recurrent or progressive (especially of a tumor', 'pleasant and beneficial in nature or influence', 'kindness of disposition or manner']}
+beseeched	{'Verb': ['ask for or request earnestly']}
+besmirch	{'Verb': ['charge falsely or with malicious intent; attack the good name and reputation of someone', 'smear so as to make dirty or stained']}
+besotted	{'Verb': ['make dull or stupid or muddle with drunkenness or infatuation'], 'Adjective': ['very drunk']}
+bifurcated	{'Verb': ['split or divide into two', 'divide into two branches'], 'Adjective': ['divided into or made up of two parts']}
+bipartisan	{'Adjective': ['supported by both sides']}
+blandishments	{'Noun': ['flattery intended to persuade', 'the act of urging by means of teasing or flattery']}
+blatant	{'Adjective': ['without any attempt at concealment; completely obvious', 'conspicuously and offensively loud; given to vehement outcry']}
+blissful	{'Adjective': ['completely happy and contented']}
+blithe	{'Adjective': ['lacking or showing a lack of due concern', 'carefree and happy and lighthearted']}
+bloodthirsty	{'Adjective': ['marked by eagerness to resort to violence and bloodshed']}
+blunt	{'Verb': ['make less intense', 'make numb or insensitive', 'make dull or blunt', 'make less sharp', 'make less lively, intense, or vigorous; impair in vigor, force, activity, or sensation'], 'Adjective': ['having a broad or rounded end', 'used of a knife or other blade; not sharp', 'characterized by directness in manner or speech; without subtlety or evasion', 'devoid of any qualifications or disguise or adornment']}
+bodes	{'Verb': ['indicate, as with a sign or an omen']}
+bogged down
+bogus	{'Adjective': ['fraudulent; having a misleading appearance']}
+boisterous	{'Adjective': ['noisy and lacking in restraint or discipline', 'full of rough and exuberant animal spirits', 'violently agitated and turbulent']}
+bolster	{'Noun': ['a pillow that is often put across a bed underneath the regular pillows'], 'Verb': ['support and strengthen', 'prop up with a pillow or bolster', 'add padding to']}
+bombastic	{'Adjective': ['ostentatiously lofty in style']}
+bon-mots
+bonobos	{'Noun': ['small chimpanzee of swamp forests in Zaire; a threatened species']}
+boondoggle	{'Noun': ['work of little or no value done merely to look busy'], 'Verb': ['do useless, wasteful, or trivial work']}
+boorish	{'Adjective': ['ill-mannered and coarse and contemptible in behavior or appearance']}
+boosterish
+botched	{'Verb': ['make a mess of, destroy or ruin'], 'Adjective': ['spoiled through incompetence or clumsiness']}
+brandishes	{'Noun': ['the act of waving'], 'Verb': ['move or swing back and forth', 'exhibit aggressively']}
+breach	{'Noun': ['a failure to perform some promised act or obligation', 'an opening (especially a gap in a dike or fortification', 'a personal or social separation (as between opposing factions'], 'Verb': ['act in disregard of laws, rules, contracts, or promises', 'make an opening or gap in']}
+bridge	{'Noun': ['a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.', 'a circuit consisting of two branches (4 arms arranged in a diamond configuration', 'something resembling a bridge in form or function', 'the hard ridge that forms the upper part of the nose', 'any of various card games based on whist for four players', 'a wooden support that holds the strings up', 'a denture anchored to teeth on either side of missing teeth', 'the link between two lenses; rests on the nose', 'an upper deck where a ship is steered and the captain stands'], 'Verb': ['connect or reduce the distance between', 'make a bridge across', 'cross over on a bridge']}
+brook	{'Noun': ['a natural stream of water smaller than a river (and often a tributary of a river'], 'Verb': ['put up with something or somebody unpleasant']}
+brusque	{'Adjective': ['marked by rude or peremptory shortness']}
+brutality	{'Noun': ['the trait of extreme cruelty', 'a brutal barbarous savage act']}
+bucolic	{'Noun': ['a country person', 'a short poem descriptive of rural or pastoral life'], 'Adjective': ['(used with regard to idealized country life', 'relating to shepherds or herdsmen or devoted to raising sheep or cattle']}
+buoyancy	{'Noun': ['cheerfulness that bubbles to the surface', 'the property of something weightless and insubstantial', 'the tendency to float in water or other liquid', 'irrepressible liveliness and good spirit']}
+burgeoning	{'Verb': ['grow and flourish']}
+bustling	{'Verb': ['move or cause to move energetically or busily'], 'Adjective': ['full of energetic and noisy activity']}
+buttress	{'Noun': ['a support usually of stone or brick; supports the wall of a building'], 'Verb': ['reinforce with a buttress', 'make stronger or defensible']}
+buttressed	{'Verb': ['reinforce with a buttress', 'make stronger or defensible'], 'Adjective': ['held up by braces or buttresses']}
+byzantine	{'Noun': ['a native or inhabitant of Byzantium or of the Byzantine Empire'], 'Adjective': ['of or relating to the Eastern Orthodox Church or the rites performed in it', 'of or relating to or characteristic of the Byzantine Empire or the ancient city of Byzantium', 'highly complex or intricate and occasionally devious']}
+cabal	{'Noun': ['a clique (often secret', 'a plot to carry out some harmful or illegal act (especially a political plot'], 'Verb': ['engage in plotting or enter into a conspiracy, swear together']}
+cajole	{'Verb': ['influence or urge by gentle urging, caressing, or flattering']}
+callous	{'Verb': ['make insensitive or callous; deaden feelings or morals'], 'Adjective': ['emotionally hardened', 'having calluses; having skin made tough and thick through wear']}
+calumnies	"{'Noun': [""a false accusation of an offense or a malicious misrepresentation of someone's words or actions"", ""an abusive attack on a person's character or good name""]}"
+candor	{'Noun': ['ability to make judgments free from discrimination or dishonesty', 'the quality of being honest and straightforward in attitude and speech']}
+canny	{'Adjective': ['showing self-interest and shrewdness in dealing with others']}
+canonization	{'Noun': ['(Roman Catholic and Eastern Orthodox Church']}
+capricious	{'Adjective': ['changeable', 'determined by chance or impulse or whim rather than by necessity or reason']}
+castigate	{'Verb': ['censure severely', 'inflict severe punishment on']}
+catalyst	{'Noun': ['(chemistry', 'something that causes an important event to happen']}
+catharsis	{'Noun': ['(psychoanalysis', 'purging the body by the use of a cathartic to stimulate evacuation of the bowels']}
+caustic	{'Noun': ['any chemical substance that burns or destroys living tissue'], 'Adjective': ['harsh or corrosive in tone', 'of a substance, especially a strong acid; capable of destroying or eating away by chemical action']}
+cauterizes	{'Verb': ['burn, sear, or freeze (tissue', 'make insensitive or callous; deaden feelings or morals']}
+cavalier	{'Noun': ['a gallant or courtly gentleman', 'a royalist supporter of Charles I during the English Civil War'], 'Adjective': ['given to haughty disregard of others']}
+celebrated	{'Verb': ['behave as expected during of holidays or rites', 'have a celebration', 'assign great social importance to'], 'Adjective': ['widely known and esteemed', 'having an illustrious past']}
+cerebral	{'Adjective': ['involving intelligence rather than emotions or instinct', 'of or relating to the cerebrum or brain']}
+chaff	{'Noun': ['material consisting of seed coverings and small pieces of stem or leaves that have been separated from the seeds', 'foil in thin strips; ejected into the air as a radar countermeasure'], 'Verb': ['be silly or tease one another']}
+chagrin	{'Noun': ['strong feelings of embarrassment'], 'Verb': ['cause to feel shame; hurt the pride of']}
+charade	{'Noun': ['a word acted out in an episode of the game of charades', 'making a false outward show']}
+charismatic	{'Adjective': ['possessing an extraordinary ability to attract']}
+chary	{'Adjective': ['characterized by great caution and wariness']}
+chide	{'Verb': ['censure severely or angrily']}
+chided	{'Verb': ['censure severely or angrily']}
+chronicling	{'Verb': ['record in chronological order; make a historical record']}
+chronology	{'Noun': ['an arrangement of events in time', 'a record of events in the order of their occurrence', 'the determination of the actual temporal sequence of past events']}
+circumscribing	{'Verb': ['draw a line around', 'restrict or confine within limits', 'to draw a geometric figure around another figure so that the two are in contact but do not intersect']}
+cite	{'Noun': ['a short note recognizing a source of information or of a quoted passage'], 'Verb': ['make reference to', 'commend', 'refer to', 'repeat a passage from', 'refer to for illustration or proof', 'advance evidence for', 'call in an official matter, such as to attend court']}
+citing	{'Verb': ['make reference to', 'commend', 'refer to', 'repeat a passage from', 'refer to for illustration or proof', 'advance evidence for', 'call in an official matter, such as to attend court']}
+clairvoyant	{'Noun': ['someone who has the power of clairvoyance'], 'Adjective': ['perceiving things beyond the natural range of the senses', 'foreseeing the future']}
+clamor	{'Noun': ['a loud harsh or strident noise', 'loud and persistent outcry from many people'], 'Verb': ['make loud demands', 'utter or proclaim insistently and noisily', 'compel someone to do something by insistent clamoring']}
+clandestine	{'Adjective': ['conducted with or marked by hidden aims or methods']}
+coalesced	{'Verb': ['mix together different elements', 'fuse or cause to grow together'], 'Adjective': ['joined together into a whole']}
+coda	{'Noun': ['the closing section of a musical composition']}
+cogent	{'Adjective': ['powerfully persuasive']}
+collusive	{'Adjective': ['acting together in secret toward a fraudulent or illegal end']}
+coltish	{'Adjective': ['given to merry frolicking']}
+comestible	{'Noun': ['any substance that can be used as food'], 'Adjective': ['suitable for use as food']}
+commando	{'Noun': ['a member of a military unit trained as shock troops for hit-and-run raids', 'an amphibious military unit trained for raids into enemy territory']}
+commentated	{'Verb': ['make a commentary on', 'serve as a commentator, as in sportscasting']}
+commune	{'Noun': ['the smallest administrative district of several European countries', 'a body of people or families living together and sharing everything'], 'Verb': ['communicate intimately with; be in a state of heightened, intimate receptivity', 'receive Communion, in the Catholic church']}
+communism	{'Noun': ['a form of socialism that abolishes private ownership', 'a political theory favoring collectivism in a classless society']}
+compatriots	{'Noun': ['a person from your own country']}
+compel	{'Verb': ['force somebody to do something', 'necessitate or exact']}
+complaints	{'Noun': ['an often persistent bodily disorder or disease; a cause for complaining', '(formerly', 'or repeated cries', 'an expression of grievance or resentment', '(civil law', '(criminal law']}
+complement	{'Noun': ['a word or phrase used to complete a grammatical construction', 'a complete number or quantity', 'number needed to make up a whole force', 'something added to complete or embellish or make perfect', 'one of a series of enzymes in the blood serum that are part of the immune response', 'either of two parts that mutually complete each other'], 'Verb': ['make complete or perfect; supply what is wanting or form the complement to']}
+complementary	{'Noun': ['either one of two chromatic colors that when mixed together give white (in the case of lights', 'in the case of pigments'], 'Adjective': ['of words or propositions so related that each is the negation of the other', 'acting as or providing a complement (something that completes the whole']}
+complicit
+comprehension	{'Noun': ['an ability to understand the meaning or importance of something (or the knowledge acquired as a result', 'the relation of comprising something']}
+conceded	{'Verb': ['admit (to a wrongdoing', 'be willing to concede', 'give over; surrender or relinquish to the physical control of another', 'acknowledge defeat']}
+conceit	{'Noun': ['feelings of excessive pride', 'an elaborate poetic image or a far-fetched comparison of very dissimilar things', 'a witty or ingenious turn of phrase', 'an artistic device or effect', 'the trait of being unduly vain and conceited; false pride']}
+concessionary
+concomitant	{'Noun': ['an event or situation that happens at the same time as or in connection with another'], 'Adjective': ['occurring with or following as a consequence']}
+concrete	{'Noun': ['a strong hard building material composed of sand and gravel and cement and water'], 'Verb': ['cover with cement', 'form into a solid mass; coalesce'], 'Adjective': ['capable of being perceived by the senses; not abstract or imaginary', 'formed by the coalescence of particles']}
+condoned	{'Verb': ['excuse, overlook, or make allowances for; be lenient with']}
+confers	{'Verb': ['have a conference in order to talk something over', 'present']}
+confound	{'Verb': ['be confusing or perplexing to; cause to be unable to think clearly', 'mistake one thing for another']}
+congeal	{'Verb': ['become gelatinous']}
+congenial	{'Adjective': ['suitable to your needs', '(used of plants']}
+conglomerates	{'Noun': ['a composite rock made up of particles of varying size', 'a group of diverse companies under common ownership and run as a single organization'], 'Verb': ['collect or gather']}
+congress	{'Noun': ['the legislature of the United States government', 'a meeting of elected or appointed representatives', 'a national legislative assembly', 'the social act of assembling for some common purpose']}
+congruent	{'Adjective': ['corresponding in character or kind', 'coinciding when superimposed']}
+conjectural	{'Adjective': ['based primarily on surmise rather than adequate evidence']}
+consanguineous	{'Adjective': ['related by blood']}
+consecration	{'Noun': ['a solemn commitment of your life or your time to some cherished purpose (to a service or a goal', '(religion', 'usually with religious rites']}
+constitution	{'Noun': ['law determining the fundamental political principles of a government', 'the act of forming or establishing something', 'the constitution written at the Constitutional Convention in Philadelphia in 1787 and subsequently ratified by the original thirteen states', 'the way in which someone or something is composed', 'a United States 44-gun frigate that was one of the first three naval ships built by the United States; it won brilliant victories over British frigates during the War of 1812 and is without doubt the most famous ship in the history of the United States Navy; it has been rebuilt and is anchored in the Charlestown Navy Yard in Boston']}
+contemptible	{'Adjective': ['deserving of contempt or scorn']}
+contention	{'Noun': ['a point asserted as part of an argument', 'a contentious speech act; a dispute where there is strong disagreement', 'the act of competing as for profit or a prize']}
+contest	{'Noun': ['an occasion on which a winner is selected from among two or more contestants', 'a struggle between rivals'], 'Verb': ['to make the subject of dispute, contention, or litigation']}
+contraband	{'Noun': ['goods whose importation or exportation or possession is prohibited by law'], 'Adjective': ['distributed or sold illicitly']}
+contrary	{'Noun': ['a relation of direct opposition', 'exact opposition', 'a logical relation such that two propositions are contraries if both cannot be true but both can be false'], 'Adjective': ['very opposed in nature or character or purpose', 'of words or propositions so related that both cannot be true but both may be false', 'resistant to guidance or discipline', 'in an opposing direction']}
+contravening	{'Verb': ['go against, as of rules and laws', 'deny the truth of']}
+contribute	{'Verb': ['bestow a quality on', 'contribute to some cause', 'be conducive to', 'provide']}
+contrite	{'Adjective': ['feeling or expressing pain or sorrow for sins or offenses']}
+contrivance	{'Noun': ['a device or control that is very useful for a particular job', 'the faculty of contriving; inventive skill', 'an elaborate or deceitful scheme contrived to deceive or evade', 'an artificial or unnatural or obviously contrived arrangement of details or parts etc.', 'any improvised arrangement for temporary use', 'the act of devising something']}
+contrived	{'Verb': ['make or work out a plan for; devise', 'come up with (an idea, plan, explanation, theory, or principle', 'put or send forth'], 'Adjective': ['showing effects of planning or manipulation', 'artificially formal']}
+conundrums	{'Noun': ['a difficult problem']}
+conversance	{'Noun': ['personal knowledge or information about someone or something']}
+convivial	{'Adjective': ['occupied with or fond of the pleasures of good company']}
+convoluted	{'Verb': ['curl, wind, or twist together', 'practice sophistry; change the meaning of or be vague about in order to mislead or deceive'], 'Adjective': ['rolled longitudinally upon itself', 'highly complex or intricate and occasionally devious']}
+copious	{'Adjective': ['large in number or quantity (especially of discourse', 'affording an abundant supply']}
+cornerstone	{'Noun': ['the fundamental assumptions from which something is begun or developed or calculated or explained', 'a stone in the exterior of a large and important building; usually carved with a date and laid with appropriate ceremonies', 'a stone at the outer corner of two intersecting masonry walls']}
+corroborate	{'Verb': ['establish or strengthen as with new evidence or facts', 'give evidence for', 'support with evidence or authority or make more certain or confirm']}
+corroborating	{'Verb': ['establish or strengthen as with new evidence or facts', 'give evidence for', 'support with evidence or authority or make more certain or confirm']}
+cosmopolitan	{'Noun': ['a sophisticated person who has travelled in many countries'], 'Adjective': ['growing or occurring in many parts of the world', 'composed of people from or at home in many parts of the world; especially not provincial in attitudes or interests', 'of worldwide scope or applicability']}
+couched in
+counterfactual	{'Adjective': ['going counter to the facts (usually as a hypothesis']}
+counterpoint	{'Noun': ['a musical form involving the simultaneous sound of two or more melodies'], 'Verb': ['to show differences when compared; be different', 'write in counterpoint']}
+coup	{'Noun': ['a sudden and decisive change of government illegally or by force', 'a brilliant and notable success']}
+covey	{'Noun': ['a small collection of people', 'a small flock of grouse or partridge']}
+crane	{'Noun': ['United States writer (1871-1900', 'United States poet (1899-1932', 'a small constellation in the southern hemisphere near Phoenix', 'lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis', 'large long-necked wading bird of marshes and plains in many parts of the world'], 'Verb': ['stretch (the neck']}
+credence	{'Noun': ['the mental attitude that something is believable and should be accepted as true', 'a kind of sideboard or buffet']}
+credible	"{'Adjective': ['capable of being believed', ""(a common but incorrect usage where `credulous' would be appropriate"", 'appearing to merit belief or acceptance']}"
+credulous	{'Adjective': ['disposed to believe on little evidence', 'showing a lack of judgment or experience']}
+croquet	"{'Noun': ['a game in which players hit a wooden ball through a series of hoops; the winner is the first to traverse all the hoops and hit a peg'], 'Verb': [""drive away by hitting with one's ball"", 'play a game in which players hit a wooden ball through a series of hoops']}"
+crouchback	
+cubist	{'Noun': ['an artist who adheres to the principles of cubism'], 'Adjective': ['relating to or characteristic of cubism']}
+culminate	{'Verb': ['end, especially to reach a final or climactic stage', 'bring to a head or to the highest point', 'reach the highest or most decisive point', 'reach the highest altitude or the meridian, of a celestial body', 'rise to, or form, a summit']}
+culmination	{'Noun': ['a final climactic stage', '(astronomy', 'the decisive moment in a novel or play', 'a concluding action']}
+culpable	{'Adjective': ['deserving blame or censure as being wrong or evil or injurious']}
+cultivate	{'Verb': ['foster the growth of', 'prepare for crops', 'teach or refine to be discriminative in taste or judgment', 'adapt (a wild plant or unclaimed land']}
+cultivation	"{'Noun': [""socialization through training and education to develop one's mind or manners"", '(agriculture', 'especially on a large scale', 'a highly developed state of perfection; having a flawless or impeccable quality', 'the process of fostering the growth of something', 'the act of raising or growing plants (especially on a large scale']}"
+cumbersome	{'Adjective': ['difficult to handle or use especially because of size or weight', 'not elegant or graceful in expression']}
+cunning	{'Noun': ['shrewdness as demonstrated by being skilled in deception', 'crafty artfulness (especially in deception'], 'Adjective': ['attractive especially by means of smallness or prettiness or quaintness', 'marked by skill in deception', 'showing inventiveness and skill']}
+curbed	{'Verb': ['lessen the intensity of; temper; hold in restraint; hold or keep within limits', 'keep to the curb', 'place restrictions on']}
+curt	{'Adjective': ['marked by rude or peremptory shortness', 'brief and to the point; effectively cut short']}
+curtailing	{'Verb': ['place restrictions on', 'terminate or abbreviate before its intended or proper end or its full extent']}
+dame	{'Noun': ['informal terms for a (young', 'a woman of refinement']}
+daunting	{'Verb': ['cause to lose courage'], 'Adjective': ['discouraging through fear']}
+dauntless	{'Adjective': ['invulnerable to fear or intimidation']}
+dearth	{'Noun': ['an acute insufficiency', 'an insufficient quantity or number']}
+debacle	{'Noun': ['a sudden and violent collapse', 'flooding caused by a tumultuous breakup of ice in a river during the spring or summer', 'a sound defeat']}
+debased	{'Verb': ['corrupt morally or by intemperance or sensuality', 'lower in value by increasing the base-metal content', 'corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones'], 'Adjective': ['mixed with impurities', 'lowered in value', 'ruined in character or quality']}
+debauchery	{'Noun': ['a wild gathering involving excessive drinking and promiscuity']}
+decamped	{'Verb': ['leave a camp', 'run away; usually includes taking something or somebody along', 'leave suddenly']}
+decipherable	{'Adjective': ['easily deciphered']}
+declarative	{'Noun': ['a mood (grammatically unmarked'], 'Adjective': ['relating to the use of or having the nature of a declaration', 'relating to the mood of verbs that is used simple in declarative statements']}
+deem	{'Verb': ['keep in mind or convey as a conviction or view']}
+defame	{'Verb': ['charge falsely or with malicious intent; attack the good name and reputation of someone']}
+defeasible	{'Adjective': ['capable of being annulled or voided or terminated']}
+defer	"{'Verb': ['hold back to a later time', ""yield to another's wish or opinion""]}"
+deficient	{'Adjective': ['inadequate in amount or degree', 'of a quantity not able to fulfill a need or requirement', 'falling short of some prescribed norm']}
+defile	{'Noun': ['a narrow pass (especially one between mountains'], 'Verb': ['place under suspicion or cast doubt upon', 'make dirty or spotty, as by exposure to air; also used metaphorically', 'spot, stain, or pollute']}
+definitive	{'Adjective': ['clearly defined or formulated', 'of recognized authority or excellence', 'supplying or being a final or conclusive settlement']}
+deft	{'Adjective': ['skillful in physical movements; especially of the hands']}
+deftly	{'Adverb': ['with dexterity; in a dexterous manner', 'in a deft manner']}
+deftness	{'Noun': ['skillful performance or ability without difficulty']}
+degrade	{'Verb': ['reduce the level of land, as by erosion', 'reduce in worth or character, usually verbally', 'lower the grade of something; reduce its worth']}
+deification	{'Noun': ['the condition of being treated like a god', 'an embodiment of the qualities of a god', 'the elevation of a person (as to the status of a god']}
+deified	{'Verb': ['consider as a god or godlike', 'exalt to the position of a God']}
+deify	{'Verb': ['consider as a god or godlike', 'exalt to the position of a God']}
+deleterious	{'Adjective': ['harmful to living things']}
+deliberate	{'Verb': ['think about carefully; weigh', 'discuss the pros and cons of an issue'], 'Adjective': ['carefully thought out in advance', 'unhurried and with care and dignity', 'characterized by conscious design or purpose']}
+delimit	{'Verb': ['determine the essential quality of', 'be opposite to; of angles and sides, in geometry', 'set, mark, or draw the boundaries of something']}
+delineate	{'Verb': ['show the form or outline of', 'determine the essential quality of', 'trace the shape of', 'make a mark or lines on a surface', 'describe in vivid detail'], 'Adjective': ['represented accurately or precisely']}
+delinquent	{'Noun': ['a young offender'], 'Adjective': ['guilty of a misdeed', 'failing in what duty requires', 'or delinquent', 'past due; not paid at the scheduled time']}
+delves	{'Noun': ['an excavation; usually a quarry or mine'], 'Verb': ['turn up, loosen, or remove earth']}
+demagogic	{'Adjective': ['characteristic of or resembling a demagogue']}
+demarcate	{'Verb': ['separate clearly, as if by boundaries', 'set, mark, or draw the boundaries of something']}
+demeaning	{'Verb': ['reduce in worth or character, usually verbally'], 'Adjective': ['causing awareness of your shortcomings']}
+dementia	{'Noun': ['mental deterioration of organic or functional origin']}
+demonized	{'Verb': ['make into a demon']}
+denial	"{'Noun': ['the act of refusing to comply (as with a request', 'the act of asserting that something alleged is not true', '(psychiatry', 'renunciation of your own interests in favor of the interests of others', ""a defendant's answer or plea denying the truth of the charges against him""]}"
+denigrate	{'Verb': ['cause to seem less serious; play down', 'charge falsely or with malicious intent; attack the good name and reputation of someone']}
+depict	{'Verb': ['show in, or as in, a picture', 'give a description of', 'make a portrait of']}
+deplorable	{'Adjective': ['bad; unfortunate', 'of very poor quality or condition', 'bringing or deserving severe rebuke or censure']}
+deposed	{'Verb': ['force to leave (an office', 'make a deposition; declare under oath']}
+deprecating	{'Verb': ['express strong disapproval of; deplore', 'belittle'], 'Adjective': ['tending to diminish or disparage']}
+depreciated	{'Verb': ['belittle', 'lower the value of something', 'lose in value']}
+deprivation	{'Noun': ['a state of extreme poverty', 'the disadvantage that results from losing something', 'act of depriving someone of food or money or rights']}
+derivative	{'Noun': ['the result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x', 'a compound obtained from, or regarded as derived from, another compound', 'a financial instrument whose value is based on another security', '(linguistics'], 'Adjective': ['resulting from or employing derivation']}
+desiccated	{'Verb': ['preserve by removing all water and liquids from', 'remove water from', 'lose water or moisture'], 'Adjective': ['thoroughly dried out', 'preserved by removing natural moisture', 'lacking vitality or spirit; lifeless']}
+designation	{'Noun': ['identifying word or words by which someone or something is called and classified or distinguished from others', 'the act of putting a person into a non-elective position', 'the act of designating or identifying something']}
+despots	{'Noun': ['a cruel and oppressive dictator']}
+desultory	{'Adjective': ['marked by lack of definite plan or regularity or purpose; jumping from one thing to another']}
+detest	{'Verb': ['dislike intensely; feel antipathy or aversion towards']}
+detriment	{'Noun': ['a damage or loss']}
+deviation	{'Noun': ['a variation that deviates from the standard or norm', 'the difference between an observed value and the expected value of a variable or function', 'the error of a compass due to local magnetic disturbances', 'deviate behavior', 'a turning aside (of your course or attention or concern']}
+devoid	{'Adjective': ['completely wanting or lacking']}
+dialectical	{'Adjective': ['of or relating to or employing dialectic']}
+diameter	{'Noun': ['the length of a straight line passing through the center of a circle and connecting two points on the circumference', 'a straight line connecting the center of a circle with two points on its perimeter (or the center of a sphere with two points on its surface']}
+diatribes	{'Noun': ['thunderous verbal attack']}
+dicey	{'Adjective': ['of uncertain outcome; especially fraught with risk']}
+didactic	{'Adjective': ['instructive (especially excessively']}
+diffident	{'Adjective': ['showing modest reserve', 'lacking self-confidence']}
+dilettante	{'Noun': ['an amateur who engages in an activity without serious intentions and who pretends to have knowledge'], 'Adjective': ['showing frivolous or superficial interest; amateurish']}
+diligence	{'Noun': ['conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation', 'persevering determination to perform a task', 'a diligent effort']}
+dire	{'Adjective': ['fraught with extreme danger; nearly hopeless', 'causing fear or dread or terror']}
+disaffection	{'Noun': ['the feeling of being alienated from other people', 'disloyalty to the government or to established authority']}
+disclaim	{'Verb': ['renounce a legal claim or title to', 'make a disclaimer about']}
+disconcertingly	{'Adverb': ['in a disturbing or embarrassing manner']}
+discounted	{'Verb': ['bar from attention or consideration', 'give a reduction in price on']}
+discourse	{'Noun': ['extended verbal expression in speech or writing', 'an address of a religious nature (usually delivered during a church service', 'an extended communication (often interactive'], 'Verb': ['to consider or examine in speech or writing', 'carry on a conversation', 'talk at length and formally about a topic']}
+discreet	{'Adjective': ['marked by prudence or modesty and wise self-restraint', 'unobtrusively perceptive and sympathetic', 'heedful of potential consequences']}
+discrepancy	{'Noun': ['a difference between conflicting facts or claims or opinions', 'an event that departs from expectations']}
+discretionary	{'Adjective': ['having or using the ability to act or decide according to your own discretion or judgment', '(especially of funds']}
+disinclination	{'Noun': ['that toward which you are inclined to feel dislike', 'a certain degree of unwillingness']}
+disingenuous	{'Adjective': ['not straightforward or candid; giving a false appearance of frankness']}
+disinterested	{'Adjective': ['unaffected by self-interest']}
+disparage	{'Verb': ['express a negative opinion of']}
+dispatch	{'Noun': ['an official report (usually sent in haste', 'the act of sending off something', 'the property of being prompt and efficient', 'killing a person or animal'], 'Verb': ['send away towards a designated goal', 'complete or carry out', 'kill intentionally and with premeditation', 'dispose of rapidly and without delay and efficiently', 'kill without delay']}
+dispensations	{'Noun': ['an exemption from some rule or obligation', 'a share that has been dispensed or distributed', 'the act of dispensing (giving out in portions']}
+dispersal	{'Noun': ['the act of dispersing or diffusing something']}
+disquieting	{'Verb': ['disturb in mind or make uneasy or cause to be worried or alarmed'], 'Adjective': ['causing mental discomfort']}
+dissemble	{'Verb': ['make believe with the intent to deceive', 'hide under a false appearance', 'behave unnaturally or affectedly']}
+disseminate	{'Verb': ['cause to become widely known']}
+dissent	{'Noun': ['a difference of opinion', 'the act of protesting; a public (often organized'], 'Verb': ['withhold assent', 'express opposition through action or words', 'be of different opinions']}
+dissipation	{'Noun': ['breaking up and scattering by dispersion', 'dissolute indulgence in sensual pleasure', 'useless or profitless activity; using or expending or consuming thoughtlessly or carelessly']}
+dissolute	{'Adjective': ['unrestrained by convention or morality']}
+dissolution	{'Noun': ['separation into component parts', 'the process of going into solution', 'dissolute indulgence in sensual pleasure', 'the termination of a meeting', 'the termination or disintegration of a relationship (between persons or nations']}
+dissonance	"{'Noun': [""a conflict of people's opinions or actions or characters"", 'the auditory experience of sound that lacks musical quality; sound that is a disagreeable auditory experience', 'disagreeable sounds']}"
+dissuaded	{'Verb': ['turn away from by persuasion']}
+distention	{'Noun': ['the state of being stretched beyond normal dimensions', 'the act of expanding by pressure from within']}
+distinction	{'Noun': ['a discrimination between things as different and distinct on the basis of their characteristics or attributes', 'high status importance owing to marked superiority', 'a distinguishing difference between similar things or people', 'an honor awarded to someone in recognition of achievement or superiority']}
+distort	{'Verb': ['make false by mutilation or addition; as of a message or story', 'form into a spiral shape', 'twist and press out of shape', 'affect as in thought or feeling', 'alter the shape of (something']}
+divergent	{'Adjective': ['diverging from another or from a standard', 'tending to move apart in different directions']}
+divisive	{'Adjective': ['dissenting (especially dissenting with the majority opinion']}
+doggedly	{'Adverb': ['with obstinate determination']}
+dogmatic	{'Adjective': ['characterized by assertion of unproved or unprovable principles', 'of or pertaining to or characteristic of a doctrine or code of beliefs accepted as authoritative', 'relating to or involving dogma']}
+doyenne	{'Noun': ['a woman who is the senior member of a group']}
+draconian	{'Adjective': ['of or relating to Draco or his harsh code of laws']}
+drafted	{'Verb': ['draw up an outline or sketch for something', 'engage somebody to enter the army', 'make a blueprint of']}
+dramaturgy	{'Noun': ['the art of writing and producing plays']}
+dry	{'Noun': ['a reformer who opposes the use of intoxicating beverages'], 'Verb': ['remove the moisture from and make dry', 'become dry or drier'], 'Adjective': ['free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet', 'humorously sarcastic or mocking', 'lacking moisture or volatile components', 'opposed to or prohibiting the production and sale of alcoholic beverages', 'not producing milk', '(of liquor', 'without a mucous or watery discharge', 'not shedding tears', 'lacking interest or stimulation; dull and lifeless', 'used of solid substances in contrast with liquid ones', 'unproductive especially of the expected results', 'having no adornment or coloration', '(of food', 'having a large proportion of strong liquor', 'lacking warmth or emotional involvement', 'practicing complete abstinence from alcoholic beverages']}
+dulcet	{'Adjective': ['extremely pleasant in a gentle way', 'pleasing to the ear']}
+dull	{'Verb': ['make dull in appearance', 'become dull or lusterless in appearance; lose shine or brightness', 'deaden (a sound or noise', 'make numb or insensitive', 'make dull or blunt', 'become less interesting or attractive', 'make less lively or vigorous'], 'Adjective': ['lacking in liveliness or animation', 'emitting or reflecting very little light', 'being or made softer or less loud or clear', 'so lacking in interest as to cause mental weariness', '(of color', 'not keenly felt', 'slow to learn or understand; lacking intellectual acuity', '(of business', 'or slow', 'not having a sharp edge or point', 'blunted in responsiveness or sensibility', 'not clear and resonant; sounding as if striking with or against something relatively soft', 'darkened with overcast']}
+duplicitous	{'Adjective': ['marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another']}
+duplicitously
+duplicity	{'Noun': ['a fraudulent or duplicitous representation', 'acting in bad faith; deception by pretending to entertain one set of intentions while acting under the influence of another']}
+dust	{'Noun': ['fine powdery material such as dry earth or pollen that can be blown about in the air', 'the remains of something that has been destroyed or broken up', 'free microscopic particles of solid material'], 'Verb': ['remove the dust from', 'rub the dust over a surface so as to blur the outlines of a shape', 'cover with a light dusting of a substance', 'distribute loosely']}
+dwindled	{'Verb': ['become smaller or lose substance']}
+dystopian	{'Adjective': ['of or pertaining to or resembling a dystopia', 'as bad as can be; characterized by human misery']}
+earmark	{'Noun': ['identification mark on the ear of a domestic animal', 'a distinctive characteristic or attribute'], 'Verb': ['give or assign a resource to a particular person or cause']}
+earthy	{'Adjective': ['conspicuously and tastelessly indecent', 'not far removed from or suggestive of nature', 'hearty and lusty', 'of or consisting of or resembling earth', 'sensible and practical']}
+ebullient	{'Adjective': ['joyously unrestrained']}
+eclectic	{'Noun': ['someone who selects according to the eclectic method'], 'Adjective': ['selecting what seems best of various styles or ideas']}
+ecologies	{'Noun': ['the environment as it relates to living organisms', 'the branch of biology concerned with the relations between organisms and their environment']}
+ecology	{'Noun': ['the environment as it relates to living organisms', 'the branch of biology concerned with the relations between organisms and their environment']}
+effacement	{'Noun': ['shortening of the uterine cervix and thinning of its walls as it is dilated during labor', 'withdrawing into the background; making yourself inconspicuous']}
+effect	{'Noun': ['a phenomenon that follows and is caused by some previous phenomenon', 'an outward appearance', 'an impression (especially one that is artificial or contrived', 'the central meaning or theme of a speech or literary work', '(of a law', 'a symptom caused by an illness or a drug'], 'Verb': ['produce', 'act so as to bring into existence']}
+effeminate	{'Adjective': ['having unsuitable feminine qualities']}
+effete	{'Adjective': ['affected, overrefined, and effeminate', 'deprived of vigor and the ability to be effective']}
+efficacious	{'Adjective': ['marked by qualities giving the power to produce an intended effect', 'producing or capable of producing an intended result or having a striking effect']}
+effusive	{'Adjective': ['uttered with unrestrained enthusiasm', 'extravagantly demonstrative']}
+egoist	{'Noun': ['a conceited and self-centered person', 'a self-centered person with little regard for others']}
+egregious	{'Adjective': ['conspicuously and outrageously bad or reprehensible']}
+eliminate	{'Verb': ['terminate, end, or take out', 'do away with', 'kill in large numbers', 'dismiss from consideration or a contest', 'eliminate from the body', 'remove from a contest or race', 'remove (an unknown variable']}
+elite	{'Noun': ['a group or class of persons enjoying superior intellectual or social or economic status'], 'Adjective': ['selected as the best']}
+elitist	{'Noun': ['someone who believes in rule by an elite group']}
+eloquence	{'Noun': ['powerful and effective language']}
+eloquent	{'Adjective': ['expressing yourself readily, clearly, effectively']}
+elude	{'Verb': ['escape, either physically or mentally', 'be incomprehensible to; escape understanding by', 'avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues']}
+emblazoned	{'Verb': ['decorate with colors', 'decorate with heraldic arms']}
+emblematic	{'Adjective': ['serving as a visible symbol for something abstract', 'being or serving as an illustration of a type']}
+eminence	{'Noun': ['high status importance owing to marked superiority', 'a protuberance on a bone especially for attachment of a muscle or ligament']}
+empirical	{'Adjective': ['derived from experiment and observation rather than theory', 'relying on medical quackery']}
+emulate	{'Verb': ['strive to equal or match, especially by imitating', 'imitate the function of (another system', 'compete with successfully; approach or reach equality with']}
+enamored	{'Verb': ['attract; cause to be enamored'], 'Adjective': ['marked by foolish or unreasoning fondness']}
+encumbrances	{'Noun': ['an onerous or difficult concern', 'a charge against property (as a lien or mortgage', 'any obstruction that impedes or is burdensome']}
+enervate	{'Verb': ['weaken mentally or morally', 'disturb the composure of']}
+enigmatic	{'Adjective': ['not clear to the understanding', 'resembling an oracle in obscurity of thought']}
+enraged	{'Verb': ['put into a rage; make violently angry'], 'Adjective': ['marked by extreme anger']}
+enraptured	{'Verb': ['hold spellbound'], 'Adjective': ['feeling great rapture or delight']}
+enshrine	{'Verb': ['enclose in a shrine', 'hold sacred']}
+enshrinement
+ensues	{'Verb': ['issue or terminate (in a specified way, state, etc.']}
+entail	{'Noun': ['land received by fee tail', 'the act of entailing property; the creation of a fee tail from a fee simple'], 'Verb': ['have as a logical consequence', 'impose, involve, or imply as a necessary accompaniment or result', 'limit the inheritance of property to a specific class of heirs']}
+entreaty	{'Noun': ['earnest or urgent request']}
+eons	{'Noun': ['the longest division of geological time', 'an immeasurably long period of time', '(Gnosticism']}
+ephemera	{'Noun': ['something transitory; lasting a day', 'anything short-lived, as an insect that lives only for a day in its winged form']}
+ephemeral	{'Noun': ['anything short-lived, as an insect that lives only for a day in its winged form'], 'Adjective': ['lasting a very short time']}
+epicurean	{'Noun': ['a person devoted to refined sensuous enjoyment (especially good food and drink'], 'Adjective': ['of Epicurus or epicureanism', 'devoted to pleasure', 'displaying luxury and furnishing gratification to the senses']}
+epitomized	{'Verb': ['embody the essential characteristics of or be a typical example of']}
+epoch	{'Noun': ['a period marked by distinctive character or reckoned from a fixed point or event', '(astronomy', 'as coordinates of a celestial body', 'a unit of geological time that is a subdivision of a period and is itself divided into ages']}
+equable	{'Adjective': ['not varying', 'not easily irritated']}
+equanimity	{'Noun': ['steadiness of mind under stress']}
+equilibrium	{'Noun': ['a stable situation in which forces cancel one another', 'a chemical reaction and its reverse proceed at equal rates', 'equality of distribution', 'a sensory system located in structures of the inner ear that registers the orientation of the head']}
+equitable	{'Adjective': ['fair to all parties as dictated by reason and conscience']}
+equivocal	{'Adjective': ['open to two or more interpretations; or of uncertain nature or significance; or (often', 'or ambiguous', 'open to question', 'uncertain as a sign or indication']}
+equivocate	{'Verb': ['be deliberately ambiguous or unclear in order to mislead or withhold information']}
+equivocations	{'Noun': ['a statement that is not literally false but that cleverly avoids an unpleasant truth', 'intentionally vague or ambiguous', 'falsification by means of vague or ambiguous language']}
+eradication	{'Noun': ['the complete destruction of every trace of something']}
+ergonomic	{'Adjective': ['of or relating to ergonomics']}
+ernest
+erode	{'Verb': ['become ground down or deteriorate', 'remove soil or rock']}
+ersatz	{'Noun': ['an artificial or inferior substitute or imitation'], 'Adjective': ['artificial and inferior']}
+erstwhile	{'Adjective': ['belonging to some prior time'], 'Adverb': ['at a previous time']}
+erudite	{'Adjective': ['having or showing profound knowledge']}
+erudition	{'Noun': ['profound scholarly knowledge']}
+eschew	{'Verb': ['avoid and stay away from deliberately; stay clear of']}
+esteemed	{'Verb': ['regard highly; think much of', 'look on as or consider'], 'Adjective': ['having an illustrious reputation; respected']}
+estrangement	{'Noun': ['separation resulting from hostility', 'the feeling of being alienated from other people']}
+etymologies	{'Noun': ['a history of a word', 'the study of the sources and development of words']}
+eulogized	{'Verb': ['praise formally and eloquently']}
+euphemistically	{'Adverb': ['in a euphemistic manner']}
+euphony	{'Noun': ['any agreeable (pleasing and harmonious']}
+evanescent	{'Adjective': ['tending to vanish like vapor']}
+evasions	{'Noun': ['a statement that is not literally false but that cleverly avoids an unpleasant truth', 'the deliberate act of failing to pay money', 'nonperformance of something distasteful (as by deceit or trickery', 'the act of physically escaping from something (an opponent or a pursuer or an unpleasant situation']}
+evasive	{'Adjective': ['deliberately vague or ambiguous', 'avoiding or escaping from difficulty or danger especially enemy fire']}
+evinced	{'Verb': ['give expression to']}
+evoked	{'Verb': ['call forth (emotions, feelings, and responses', 'evoke or provoke to appear or occur', 'deduce (a principle', 'a meaning', 'summon into action or bring into existence, often as if by magic', 'call to mind'], 'Adjective': ['called forth from a latent or potential state by stimulation']}
+evoking	{'Verb': ['call forth (emotions, feelings, and responses', 'evoke or provoke to appear or occur', 'deduce (a principle', 'a meaning', 'summon into action or bring into existence, often as if by magic', 'call to mind']}
+exacerbate	{'Verb': ['make worse', 'exasperate or irritate']}
+exacting	{'Verb': ['claim as due or just', 'take as an undesirable consequence of some event or state of affairs'], 'Adjective': ['having complicated nutritional requirements; especially growing only in special artificial cultures', 'severe and unremitting in making demands', 'requiring precise accuracy']}
+excise	{'Noun': ['a tax that is measured by the amount of business done (not on property or income from real estate'], 'Verb': ['remove by erasing or crossing out or as if by drawing a line', 'levy an excise tax on', 'remove by cutting']}
+excoriation	{'Noun': ['an abraded area where the skin is torn or worn off', 'severe censure']}
+excruciating	{'Verb': ['torment emotionally or mentally', 'subject to torture'], 'Adjective': ['extremely painful']}
+exculpate	{'Verb': ['pronounce not guilty of criminal charges']}
+exegetic	{'Adjective': ['relating to exegesis']}
+exemplars	{'Noun': ['something to be imitated']}
+exemplary	{'Adjective': ['worthy of imitation', 'being or serving as an illustration of a type', 'serving to warn']}
+exhaustive	{'Adjective': ['performed comprehensively and completely; not superficial or partial']}
+exorbitant	{'Adjective': ['greatly exceeding bounds of reason or moderation']}
+expatiation	{'Noun': ['a discussion (spoken or written']}
+expatriate	"{'Noun': ['a person who is voluntarily absent from home or country'], 'Verb': ['expel from a country', ""move away from one's native country and adopt a new residence abroad""]}"
+explicate	{'Verb': ['make plain and comprehensible', 'elaborate, as of theories and hypotheses']}
+explicit	{'Adjective': ['precisely and clearly expressed or readily observable; leaving nothing to implication', 'in accordance with fact or the primary meaning of a term']}
+explicitly	{'Adverb': ['in an explicit manner']}
+exploits	"{'Noun': ['a notable achievement'], 'Verb': [""use or manipulate to one's advantage"", 'draw from; make good use of', 'work excessively hard']}"
+extemporaneous	{'Adjective': ['with little or no preparation or forethought']}
+extirpated	{'Verb': ['destroy completely, as if down to the roots', 'pull up by or as if by the roots', 'surgically remove (an organ']}
+extrapolate	{'Verb': ['draw from specific cases for more general cases', 'estimate the value of', 'gain knowledge of (an area not known or experienced']}
+exuded	"{'Verb': ['release (a liquid', ""make apparent by one's mood or behavior""]}"
+fabricate	{'Verb': ['put together out of artificial or natural components or parts', 'concoct something artificial or untrue']}
+facetious	{'Adjective': ['cleverly amusing in tone']}
+facile	{'Adjective': ['superficially impressive, but lacking depth and attention to the true complexities of a subject', 'performing adroitly and without effort', 'expressing yourself readily, clearly, effectively']}
+factions	{'Noun': ['a clique (often secret', 'a dissenting clique']}
+fallacious	{'Adjective': ['containing or based on a fallacy', 'intended to deceive', 'based on an incorrect or misleading notion or information']}
+fallacy	{'Noun': ['a misconception resulting from incorrect reasoning']}
+fanciful	{'Adjective': ['indulging in or influenced by fancy', 'not based on fact; existing only in the imagination', 'having a curiously intricate quality']}
+fantastical	{'Adjective': ['existing in fancy only', 'ludicrously odd']}
+farce	{'Noun': ['a comedy characterized by broad satire and improbable situations', 'mixture of ground raw chicken and mushrooms with pistachios and truffles and onions and parsley and lots of butter and bound with eggs'], 'Verb': ['fill with a stuffing while cooking']}
+farcical	{'Adjective': ['broadly or extravagantly humorous; resembling farce']}
+fascism	{'Noun': ['a political theory advocating an authoritarian hierarchical government (as opposed to democracy or liberalism']}
+fascist	{'Noun': ['an adherent of fascism or other authoritarian views'], 'Adjective': ['relating to or characteristic of fascism']}
+fastidious	{'Adjective': ['giving careful attention to detail; hard to please; excessively concerned with cleanliness', 'having complicated nutritional requirements; especially growing only in special artificial cultures']}
+fatuous	{'Adjective': ['extremely silly or stupid']}
+fealty	{'Noun': ['the loyalty that citizens owe to their country (or subjects to their sovereign']}
+feckless	{'Adjective': ['not fit to assume responsibility', 'generally incompetent and ineffectual']}
+fecund	{'Adjective': ['capable of producing offspring or vegetation', 'intellectually productive']}
+fervent	{'Adjective': ['characterized by intense emotion', '(archaic']}
+fester	{'Noun': ['a sore that has become inflamed and formed pus'], 'Verb': ['ripen and generate pus']}
+fetid	{'Adjective': ['offensively malodorous']}
+fettered	{'Verb': ['restrain with fetters'], 'Adjective': ['bound by chains fastened around the ankles']}
+fickle	{'Adjective': ['marked by erratic changeableness in affections or attachments', 'liable to sudden unpredictable change']}
+fidelity	{'Noun': ['accuracy with which an electronic system reproduces the sound or image of its input signal', 'the quality of being faithful']}
+fiduciary	{'Noun': ['a person who holds assets in trust for a beneficiary'], 'Adjective': ['relating to or of the nature of a legal trust (i.e. the holding of something in trust for another']}
+figurative	{'Adjective': ['(used of the meanings of words or text', 'consisting of or forming human or animal figures']}
+finale	{'Noun': ['the closing section of a musical composition', 'the temporal end; the concluding time', 'the concluding part of any performance']}
+flabbergast	{'Verb': ['overcome with amazement']}
+flag	{'Noun': ['emblem usually consisting of a rectangular piece of cloth of distinctive design', 'a listing printed in all issues of a newspaper or magazine (usually on the editorial page', 'plants with sword-shaped leaves and erect stalks bearing bright-colored flowers composed of three petals and three drooping sepals', 'a rectangular piece of fabric used as a signalling device', 'flagpole used to mark the position of the hole on a golf green', 'stratified stone that splits into pieces suitable as paving stones', 'a conspicuously marked or shaped tail'], 'Verb': ['communicate or signal with a flag', 'provide with a flag', 'droop, sink, or settle from or as if from pressure or loss of tautness', 'decorate with flags', 'become less intense']}
+flagrancy
+flamboyant	{'Noun': ['showy tropical tree or shrub native to Madagascar; widely planted in tropical regions for its immense racemes of scarlet and orange flowers; sometimes placed in genus Poinciana'], 'Adjective': ['marked by ostentation but often tasteless', 'elaborately or excessively ornamented']}
+fledgling	{'Noun': ['any new participant in some activity', 'young bird that has just fledged or become capable of flying'], 'Adjective': ['(of a young bird', 'young and inexperienced']}
+flouted	{'Verb': ['treat with contemptuous disregard', 'laugh at with contempt and derision']}
+flummox	{'Verb': ['be a mystery or bewildering to']}
+foibles	"{'Noun': ['a behavioral attribute that is distinctive and peculiar to an individual', ""the weaker part of a sword's blade from the forte to the tip""]}"
+forfeit	{'Noun': ['something that is lost or surrendered as a penalty', 'a penalty for a fault or mistake that involves losing or giving up something', 'the act of losing or surrendering something as a penalty for a mistake or fault or failure to perform etc.'], 'Verb': ['lose (s.th.'], 'Adjective': ['surrendered as a penalty']}
+formalism	{'Noun': ['the doctrine that formal structure rather than content is what should be represented', '(philosophy', 'logical or mathematical', 'regarded as physical entities', 'the practice of scrupulous adherence to prescribed or external forms']}
+forte	{'Noun': ['an asset of special worth or utility', 'a musical composition or musical passage to be performed loudly', 'the stronger part of a sword blade between the hilt and the foible'], 'Adjective': ['(used chiefly as a direction or description in music'], 'Adverb': ['used as a direction in music; to be played relatively loudly']}
+fortuitous	{'Adjective': ['having no cause or apparent cause', 'occurring by happy chance']}
+foster	{'Noun': ['United States songwriter whose songs embody the sentiment of the South before the American Civil War (1826-1864'], 'Verb': ['promote the growth of', 'bring up under fosterage; of children', 'help develop, help grow'], 'Adjective': ['providing or receiving nurture or parental care though not related by blood or legal ties']}
+frank	{'Noun': ['a member of the ancient Germanic peoples who spread from the Rhine into the Roman Empire in the 4th century', 'a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll'], 'Verb': ['stamp with a postmark to indicate date and time of mailing', 'exempt by means of an official pass or letter, as from customs or other checks'], 'Adjective': ['characterized by directness in manner or speech; without subtlety or evasion', 'clearly manifest; evident']}
+fruition	{'Noun': ['the condition of bearing fruit', 'enjoyment derived from use or possession', 'something that is made real or concrete']}
+fulmination	{'Noun': ['thunderous verbal attack', 'the act of exploding with noise and violence']}
+futile	{'Adjective': ['producing no result or effect', 'unproductive of success']}
+gadfly	{'Noun': ['a persistently annoying person', 'any of various large flies that annoy livestock']}
+gaffe	{'Noun': ['a socially awkward or tactless act']}
+gainsay	{'Verb': ['take exception to']}
+galleys	{'Noun': ['a large medieval vessel with a single deck propelled by sails and oars with guns at stern and prow; a complement of 1,000 men; used mainly in the Mediterranean for war and trading', '(classical antiquity', 'the kitchen area for food preparation on an airliner', 'the area for food preparation on a ship']}
+galvanize	{'Verb': ['to stimulate to action', 'cover with zinc', 'stimulate (muscles']}
+gambits	{'Noun': ['an opening remark intended to secure an advantage for the speaker', 'a maneuver in a game or conversation', 'a chess move early in the game in which the player sacrifices minor pieces in order to obtain an advantageous position']}
+gamut	{'Noun': ['the entire scale of musical notes']}
+garrulous	{'Adjective': ['full of trivial conversation']}
+gauche	{'Adjective': ['lacking social polish']}
+gauntlet	{'Noun': ['to offer or accept a challenge', 'a glove of armored leather; protects the hand', 'a glove with long sleeve', 'a form of punishment in which a person is forced to run between two lines of men facing each other and armed with clubs or whips to beat the victim']}
+genial	{'Adjective': ['diffusing warmth and friendliness', 'of or relating to the chin or median part of the lower jaw', 'agreeable, conducive to comfort']}
+genteel	{'Adjective': ['marked by refinement in taste and manners']}
+germane	{'Adjective': ['relevant and appropriate']}
+gilt	{'Noun': ['a coating of gold or of something that looks like gold'], 'Verb': ['decorate with, or as if with, gold leaf or liquid gold'], 'Adjective': ['having the deep slightly brownish color of gold', 'or golden']}
+gist	{'Noun': ['the central meaning or theme of a speech or literary work', 'the choicest or most essential or most vital part of some idea or experience']}
+grandiloquent	{'Adjective': ['lofty in style', 'puffed up with vanity']}
+gregarious	{'Adjective': ['(of animals', 'instinctively or temperamentally seeking and enjoying the company of others', '(of plants']}
+grizzled	{'Verb': ['be in a huff; be silent or sullen', 'complain whiningly'], 'Adjective': ['having dark hairs mixed with grey or white']}
+grotesque	{'Noun': ['art characterized by an incongruous mixture of parts of humans and animals interwoven with plants'], 'Adjective': ['distorted and unnatural in shape or size; abnormal and hideous', 'ludicrously odd']}
+guileless	{'Adjective': ['free of deceit']}
+guise	{'Noun': ['an artful or simulated semblance']}
+gunning	{'Verb': ['shoot with a gun']}
+guru	{'Noun': ['a Hindu or Buddhist religious leader and spiritual teacher', 'each of the first ten leaders of the Sikh religion', 'a recognized leader in some field or of some movement']}
+habituated	{'Verb': ['take or consume (regularly or habitually', 'make psychologically or physically used (to something']}
+hackneyed	{'Adjective': ['repeated too often; overfamiliar through overuse']}
+hadron	{'Noun': ['any elementary particle that interacts strongly with other particles']}
+hale	"{'Noun': [""a soldier of the American Revolution who was hanged as a spy by the British; his last words were supposed to have been `I only regret that I have but one life to give for my country' (1755-1776"", 'United States astronomer who discovered that sunspots are associated with strong magnetic fields (1868-1938', 'prolific United States writer (1822-1909'], 'Verb': ['to cause to do through pressure or necessity, by physical, moral or intellectual means', 'draw slowly or heavily'], 'Adjective': ['exhibiting or restored to vigorous good health']}"
+hallmark	{'Noun': ['a distinctive characteristic or attribute', 'a mark on an article of trade to indicate its origin and authenticity']}
+hamlet	"{'Noun': ['a community of people smaller than a village', ""the hero of William Shakespeare's tragedy who hoped to avenge the murder of his father"", 'a settlement smaller than a town']}"
+hamstring	{'Noun': ['one of the tendons at the back of the knee'], 'Verb': ['make ineffective or powerless', 'cripple by cutting the hamstring']}
+hapless	{'Adjective': ['deserving or inciting pity']}
+happenstance	{'Noun': ['an event that might have been arranged although it was really accidental']}
+harbingers	{'Noun': ['something that precedes and indicates the approach of something or someone'], 'Verb': ['foreshadow or presage']}
+hardy	{'Noun': ['United States slapstick comedian who played the pompous and overbearing member of the Laurel and Hardy duo who made many films (1892-1957', 'English novelist and poet (1840-1928'], 'Adjective': ['having rugged physical strength; inured to fatigue or hardships', 'able to survive under unfavorable weather conditions', 'invulnerable to fear or intimidation']}
+heads	"{'Noun': ['the upper part of the human body or the front part of the body in animals; contains the face and brains', 'a single domestic animal', ""that which is responsible for one's thoughts, feelings, and conscious brain functions; the seat of the faculty of reason"", 'a person who is in charge', 'the front of a military formation or procession', 'the pressure exerted by a fluid', 'the top of something', 'the source of water from which a stream arises', '(grammar', 'the tip of an abscess (where the pus accumulates', 'the length or height based on the size of a human or animal head', 'a dense cluster of flowers or foliage', 'the educator who has executive authority for a school', 'an individual person', 'a user of (usually soft', 'a natural elevation (especially a rocky one that juts out into the sea', 'a rounded compact mass', 'the foam or froth that accumulates at the top when you pour an effervescent liquid into a container', 'the part in the front or nearest the viewer', 'a difficult juncture', 'forward movement', 'a V-shaped mark at one end of an arrow pointer', 'the subject matter at issue', 'a line of text serving to indicate what the passage below it is about', 'the rounded end of a bone that fits into a rounded cavity in another bone to form a joint', 'that part of a skeletal muscle that is away from the bone that it moves', '(computer science', '(usually plural', 'the striking part of a tool', '(nautical', 'a projection out from one end', 'a membrane that is stretched taut over a drum', 'oral stimulation of the genitals'], 'Verb': ['to go or travel towards', 'be in charge of', 'travel in front of; go in advance of others', 'be the first or leading member of (a group', 'direct the course; determine the direction of travelling', 'take its rise', 'be in the front of or on top of', 'form a head or come or grow to a head', 'remove the head of']}"
+hector	{'Noun': ['(Greek mythology'], 'Verb': ['be bossy towards']}
+hedonism	{'Noun': ['the pursuit of pleasure as a matter of ethical principle', 'an ethical system that evaluates the pursuit of pleasure as the highest good']}
+heeding	{'Verb': ['pay close attention to; give heed to']}
+hegemonic
+hegemony	{'Noun': ['the dominance or leadership of one social group or nation over others']}
+helmsmanship
+hemmorrhaging
+heralded	{'Verb': ['foreshadow or presage', 'praise vociferously', 'greet enthusiastically or joyfully'], 'Adjective': ['publicly announced']}
+hermeneutic	{'Adjective': ['interpretive or explanatory']}
+hermetic	{'Adjective': ['completely sealed; completely airtight']}
+heterodox	{'Adjective': ['characterized by departure from accepted beliefs or standards']}
+heterogenous	{'Adjective': ['consisting of elements that are not of the same kind or nature', 'originating outside the body']}
+heuristic	{'Noun': ['a commonsense rule (or set of rules'], 'Adjective': ['of or relating to or using a general formulation that serves to guide investigation']}
+hierarchical	{'Adjective': ['classified according to various criteria into successive levels or layers']}
+hierarchy	{'Noun': ['a series of ordered groupings of people or things within a system', 'the organization of people at different ranks in an administrative body']}
+hindered	{'Verb': ['be a hindrance or obstacle to', 'hinder or prevent the progress or accomplishment of', 'put at a disadvantage']}
+hindrance	{'Noun': ['something immaterial that interferes with or delays action or progress', 'any obstruction that impedes or is burdensome', 'the act of hindering or obstructing or impeding']}
+hinging	{'Verb': ['attach with a hinge']}
+hinterland	{'Noun': ['a remote and undeveloped area']}
+hirsute	{'Adjective': ['having or covered with hair']}
+histrionic	{'Adjective': ['characteristic of acting or a stage performance; often affected']}
+hobble	{'Noun': ['a shackle for the ankles or feet', 'the uneven manner of walking that results from an injured leg'], 'Verb': ['walk impeded by some physical limitation or injury', 'hamper the action or progress of', 'strap the foreleg and hind leg together on each side (of a horse']}
+hodgepodge	{'Noun': ['a motley assortment of things', 'a theory or argument made up of miscellaneous or incongruous ideas']}
+homogenous	{'Adjective': ['all of the same or similar kind or nature']}
+honed	{'Verb': ['sharpen with a hone', 'make perfect or complete']}
+honeycombed	{'Verb': ['carve a honeycomb pattern into', 'penetrate thoroughly and into every part', 'make full of cavities, like a honeycomb'], 'Adjective': ['pitted with cell-like cavities (as a honeycomb']}
+honorific	{'Noun': ['an expression of respect'], 'Adjective': ['conferring or showing honor or respect']}
+horrific	{'Adjective': ['grossly offensive to decency or morality; causing horror', 'causing fear or dread or terror']}
+house	{'Noun': ['a dwelling that serves as living quarters for one or more families', 'the members of a business organization that owns or operates one or more establishments', 'the members of a religious community living together', 'the audience gathered together in a theatre or cinema', 'an official assembly having legislative powers', 'aristocratic family line', 'play in which children take the roles of father or mother or children and pretend to interact like adults', '(astrology', 'the management of a gambling house or casino', 'a social unit living together', 'a building where theatrical performances or motion-picture shows can be presented', 'a building in which something is sheltered or located'], 'Verb': ['contain or cover', 'provide housing for']}
+humanize	{'Verb': ['make more humane']}
+husband	"{'Noun': [""a married man; a woman's partner in marriage""], 'Verb': ['use cautiously and frugally']}"
+hyperboles	{'Noun': ['extravagant exaggeration']}
+hysteria	{'Noun': ['state of violent mental agitation', 'excessive or uncontrollable fear', 'neurotic disorder characterized by violent emotional outbreaks and disturbances of sensory and motor functions']}
+iconoclasm	{'Noun': ['the orientation of an iconoclast']}
+iconoclastic	{'Adjective': ['characterized by attack on established beliefs or institutions', 'destructive of images used in religious worship; said of religions, such as Islam, in which the representation of living things is prohibited']}
+ideologues	{'Noun': ['an advocate of some ideology']}
+ideological	{'Adjective': ['of or pertaining to or characteristic of an orientation that characterizes the thinking of a group or nation', 'concerned with or suggestive of ideas']}
+idioms	{'Noun': ['a manner of speaking that is natural to native speakers of a language', 'the usage or vocabulary that is characteristic of a specific group of people', 'the style of a particular artist or school or movement', 'an expression whose meanings cannot be inferred from the meanings of the words that make it up']}
+idiosyncratic	{'Adjective': ['peculiar to the individual']}
+idle	{'Noun': ['the state of an engine or other mechanism that is idling'], 'Verb': ['run disconnected or idle', 'be idle; exist in a changeless situation'], 'Adjective': ['not in action or at work', 'without a basis in reason or fact', 'not in active use', 'silly or trivial', 'lacking a sense of restraint or responsibility', 'not yielding a return', 'not having a job']}
+ignominious	{'Adjective': ['(used of conduct or character']}
+illiberal	{'Adjective': ['narrow-minded about cherished opinions']}
+illicit	{'Adjective': ['contrary to accepted morality (especially sexual morality', 'contrary to or forbidden by law']}
+imbues	{'Verb': ['spread or diffuse through', 'fill, soak, or imbue totally', 'suffuse with color']}
+immaterial	{'Adjective': ['of no importance or relevance especially to a law case', 'without material form or substance', 'not consisting of matter', 'not pertinent to the matter under consideration', 'or indifferent']}
+immoderate	{'Adjective': ['beyond reasonable limits']}
+immolate	{'Verb': ['offer as a sacrifice by killing or by giving up to destruction']}
+immortalized	{'Verb': ['be or provide a memorial to a person or an event', 'make famous forever']}
+immutable	{'Adjective': ['not subject or susceptible to change or variation in form or quality or nature', 'constant and unchanging']}
+impact	{'Noun': ['the striking of one body against another', 'a forceful consequence; a strong effect', 'influencing strongly', 'the violent interaction of individuals or groups entering into combat'], 'Verb': ['press or wedge together; pack together', 'have an effect upon']}
+impartial	{'Adjective': ['showing lack of favoritism', 'free from undue bias or preconceived opinions']}
+impartiality	{'Noun': ['an inclination to weigh both views or opinions equally']}
+impasse	{'Noun': ['a situation in which no progress can be made or no advancement is possible', 'a street with only one way in or out']}
+impeccable	{'Adjective': ['without fault or error', 'not capable of sin']}
+impecunious	{'Adjective': ['not having enough money to pay for necessities']}
+impede	{'Verb': ['be a hindrance or obstacle to', 'block passage through']}
+impediments	{'Noun': ['something immaterial that interferes with or delays action or progress', 'any structure that makes progress difficult']}
+impenetrable	{'Adjective': ['not admitting of penetration or passage into or through', 'permitting little if any light to pass through because of denseness of matter', 'impossible to understand']}
+imperil	{'Verb': ['pose a threat to; present a danger to']}
+imperious	{'Adjective': ['having or showing arrogant superiority to and disdain of those one views as unworthy']}
+impervious	{'Adjective': ['not admitting of passage or capable of being affected']}
+impious	{'Adjective': ['lacking piety or reverence for a god', 'lacking due respect or dutifulness']}
+implacability
+implicit	{'Adjective': ['implied though not directly expressed; inherent in the nature of something', 'being without doubt or reserve']}
+important	{'Adjective': ['of great significance or value', 'important in effect or meaning', 'of extreme importance; vital to the resolution of a crisis', 'having authority or ascendancy or influence', 'having or suggesting a consciousness of high position']}
+importunate	{'Adjective': ['expressing persistant and earnest entreaty']}
+impotent	{'Adjective': ['lacking power or ability', '(of a male']}
+impressed	{'Verb': ['have an emotional or cognitive impact upon', 'impress positively', 'produce or try to produce a vivid impression of', 'mark or stamp with or as if with pressure', 'reproduce by printing', 'take (someone', 'dye (fabric'], 'Adjective': ['deeply or markedly affected or influenced']}
+improvident	{'Adjective': ['not provident; not providing for the future', 'not given careful consideration']}
+impudent	{'Adjective': ['marked by casual disrespect', 'improperly forward or bold']}
+imputation	{'Noun': ['a statement attributing something dishonest (especially a criminal offense', 'the attribution to a source or cause']}
+incendiary	{'Noun': ['a criminal who illegally sets fire to property', 'a bomb that is designed to start fires; is most effective against flammable targets (such as fuel'], 'Adjective': ['involving deliberate burning of property', 'arousing to action or rebellion', 'capable of catching fire spontaneously or causing fires or burning readily']}
+incised	{'Verb': ['make an incision into by carving or cutting'], 'Adjective': ['sharply and deeply indented', 'cut into with a sharp instrument', 'cut or impressed into a surface']}
+incentivize
+inchoate	{'Adjective': ['only partly in existence; imperfectly formed']}
+incipient	{'Adjective': ['only partly in existence; imperfectly formed']}
+incite	{'Verb': ['give an incentive for action', 'provoke or stir up', 'urge on; cause to act']}
+incongruous	{'Adjective': ['lacking in harmony or compatibility or appropriateness']}
+inconsequential	{'Adjective': ['lacking worth or importance', 'not following logically as a consequence']}
+incorrigible	{'Adjective': ['impervious to correction by punishment', 'difficult or impossible to manage or control']}
+incumbent	{'Noun': ['the official who holds an office'], 'Adjective': ['lying or leaning on something else', 'necessary (for someone', 'currently holding an office']}
+indecipherable	{'Adjective': ['not easily deciphered', 'impossible to determine the meaning of']}
+indemnify	{'Verb': ['secure against future loss, damage, or liability; give security for', 'make amends for; pay compensation for']}
+indeterminable	{'Adjective': ['not capable of being definitely decided or ascertained', 'incapable of being definitely ascertained or calculated']}
+indeterminate	{'Adjective': ['not precisely determined or established; not fixed or known in advance', 'having a capacity for continuing to grow at the apex', 'of uncertain or ambiguous nature', 'or indeterminate', '(of a quantity', 'not leading to a definite ending or result']}
+indifference	{'Noun': ['unbiased impartial unconcern', 'apathy demonstrated by an absence of emotional reactions', 'the trait of lacking enthusiasm for or interest in things generally', 'the trait of remaining calm and seeming not to care; a casual lack of concern']}
+indignant	{'Adjective': ['angered at something unjust or wrong']}
+indisputably
+indolence	{'Noun': ['inactivity resulting from a dislike of work']}
+ineffectual	{'Adjective': ['not producing an intended effect', 'producing no result or effect', 'lacking in power or forcefulness']}
+ineptness	{'Noun': ['unskillfulness resulting from a lack of training', 'the quality of having the wrong properties for a specific purpose']}
+inevitably	{'Adverb': ['in such a manner as could not be otherwise', 'by necessity']}
+inexorably	{'Adverb': ['in an inexorable manner']}
+infinitesimal	{'Noun': ['(mathematics'], 'Adjective': ['infinitely or immeasurably small']}
+infirmity	{'Noun': ['the state of being weak in health or body (especially from old age']}
+infuses	{'Verb': ['teach and impress by frequent repetitions or admonitions', 'fill, as with a certain quality', 'undergo the process of infusion', 'let sit in a liquid to extract a flavor or to cleanse', 'introduce into the body through a vein, for therapeutic purposes']}
+ingenious	{'Adjective': ['showing inventiveness and skill']}
+ingenuity	{'Noun': ['the power of creative imagination', 'the property of being ingenious']}
+ingenuous	{'Adjective': ['characterized by an inability to mask your feelings; not devious', 'lacking in sophistication or worldliness']}
+inherently	{'Adverb': ['in an inherent manner']}
+inimical	{'Adjective': ['not friendly']}
+injecting	{'Verb': ['give an injection to', 'to introduce (a new aspect or element', 'force or drive (a fluid or gas', 'take by injection', 'feed intravenously', 'to insert between other elements']}
+inkling	{'Noun': ['a slight suggestion or vague understanding']}
+innocuous	{'Adjective': ['not injurious to physical or mental health', 'not causing disapproval', 'lacking intent or capacity to injure']}
+innovative	{'Adjective': ['ahead of the times', 'being or producing something like nothing done or experienced or created before']}
+innuendos	{'Noun': ['an indirect (and usually malicious']}
+innumerable	{'Adjective': ['too numerous to be counted']}
+inquisitions	{'Noun': ['a former tribunal of the Roman Catholic Church (1232-1820', 'a severe interrogation (often violating the rights or privacy of individuals']}
+inscribing	"{'Verb': ['carve, cut, or etch into a material or surface', 'register formally as a participant or member', 'draw within a figure so as to touch in as many places as possible', 'write, engrave, or print as a lasting record', ""mark with one's signature"", 'convert ordinary language into code', 'address, (a work of literature']}"
+insensibly	{'Adverb': ['in a numb manner; without feeling']}
+insidious	{'Adjective': ['beguiling but harmful', 'intended to entrap', 'working or spreading in a hidden and usually injurious way']}
+insightful	{'Adjective': ['exhibiting insight or clear and deep perception']}
+insights	{'Noun': ['clear or deep perception of a situation', 'a feeling of understanding', 'the clear (and often sudden', 'grasping the inner nature of things intuitively']}
+insinuated	{'Verb': ['introduce or insert (oneself', 'give to understand']}
+insipid	{'Adjective': ['lacking taste or flavor or tang', 'lacking interest or significance or impact']}
+insolent	{'Adjective': ['marked by casual disrespect', 'unrestrained by convention or propriety']}
+insolvent	{'Noun': ['someone who has insufficient assets to cover their debts'], 'Adjective': ['unable to meet or discharge financial obligations']}
+insouciance	{'Noun': ['the cheerful feeling you have when nothing is troubling you']}
+instigating	{'Verb': ['provoke or stir up', 'serve as the inciting cause of']}
+instigation	{'Noun': ['the verbal act of urging on', 'deliberate and intentional triggering (of trouble or discord']}
+insurmountable	{'Adjective': ['not capable of being surmounted or overcome', 'impossible to surmount']}
+intentions	{'Noun': ['an anticipated outcome that is intended or that guides your planned actions', '(usually plural', 'an act of intending; a volition that you intend to carry out']}
+inter	{'Verb': ['place in a grave or tomb']}
+interlocutors	{'Noun': ['the performer in the middle of a minstrel line who engages the others in talk', 'a person who takes part in a conversation']}
+interlude	{'Noun': ['an intervening period or episode', 'a brief show (music or dance etc'], 'Verb': ['perform an interlude']}
+interpolate	{'Verb': ['estimate the value of', 'insert words into texts, often falsifying it thereby']}
+interspersed	"{'Verb': ['place at intervals in or among', ""introduce one's writing or speech with certain expressions""]}"
+intransigence	{'Noun': ['the trait of being intransigent; stubbornly refusing to compromise']}
+intrepid	{'Adjective': ['invulnerable to fear or intimidation']}
+inundates	{'Verb': ['fill quickly beyond capacity; as with a liquid', 'fill or cover completely, usually with water']}
+inured	{'Verb': ['cause to accept or become hardened to; habituate'], 'Adjective': ['made tough by habitual exposure']}
+inviegle
+investiture	{'Noun': ['the ceremony of installing a new monarch', 'the ceremonial act of clothing someone in the insignia of an office; the formal promotion of a person to an office or rank']}
+iota	{'Noun': ['a tiny or scarcely detectable amount', 'the 9th letter of the Greek alphabet']}
+irascible	{'Adjective': ['quickly aroused to anger', 'characterized by anger']}
+irate	{'Adjective': ['feeling or showing extreme anger']}
+ironically	{'Adverb': ['contrary to plan or expectation', 'in an ironic manner']}
+irony	{'Noun': ['witty language used to convey insults or scorn', 'incongruity between what might be expected and what actually occurs', 'a trope that involves incongruity between what is expected and what occurs']}
+irredeemable	{'Adjective': ['insusceptible of reform', '(of paper money']}
+irrefutable	{'Adjective': ['impossible to deny or disprove']}
+iteration	{'Noun': ['(computer science', '(computer science', 'doing or saying again; a repeated performance']}
+iterative	{'Noun': ['the aspect of the verb that expresses the repetition of an action'], 'Adjective': ['marked by iteration']}
+jaundiced	{'Verb': ['distort adversely', 'affect with, or as if with, jaundice'], 'Adjective': ['affected by jaundice which causes yellowing of skin etc', 'showing or affected by prejudice or envy or distaste']}
+jeopardize	{'Verb': ['pose a threat to; present a danger to', 'put at risk']}
+jibes	{'Noun': ['an aggressive remark directed at a person like a missile and intended to have a telling effect'], 'Verb': ['be compatible, similar or consistent; coincide in their characteristics', 'shift from one side of the ship to the other']}
+jingoistic	{'Adjective': ['fanatically patriotic']}
+joviality	{'Noun': ['feeling jolly and jovial and full of good humor', 'a jovial nature']}
+jurisprudent
+keen	{'Noun': ['a funeral lament sung with loud wailing'], 'Verb': ['express grief verbally'], 'Adjective': ['having or demonstrating ability to recognize or draw fine distinctions', 'intense or sharp', 'very good', 'painful as if caused by a sharp instrument', 'having a sharp cutting edge or point']}
+kinetic	{'Adjective': ['relating to the motion of material bodies and the forces associated therewith', 'characterized by motion', 'supplying motive force']}
+kudos	{'Noun': ['an expression of approval and commendation']}
+labile	{'Adjective': ['(chemistry, physics, biology', 'liable to change']}
+labyrinthine	{'Adjective': ['relating to or affecting or originating in the inner ear', 'resembling a labyrinth in form or complexity']}
+lackey	{'Noun': ['a male servant (especially a footman', 'a person who tries to please someone in order to gain a personal advantage']}
+lackluster	{'Adjective': ['lacking brilliance or vitality', 'lacking luster or shine']}
+laconic	{'Adjective': ['brief and to the point; effectively cut short']}
+language	{'Noun': ['a systematic means of communicating by the use of sounds or conventional symbols', '(language', 'the text of a popular song or musical-comedy number', 'the cognitive processes involved in producing and understanding linguistic communication', 'the mental faculty or power of vocal communication', 'a system of words used to name things in a particular discipline']}
+languid	{'Adjective': ['lacking spirit or liveliness']}
+lapses	"{'Noun': ['a mistake resulting from inattention', 'a break or intermission in the occurrence of something', 'a failure to maintain a higher state'], 'Verb': ['pass into a specified state or condition', 'end, at least for a long time', ""drop to a lower level, as in one's morals or standards"", 'go back to bad behavior', 'let slip', 'pass by']}"
+lard	{'Noun': ['soft white semisolid fat obtained by rendering the fatty tissue of the hog'], 'Verb': ['prepare or cook with lard', 'add details to']}
+lascivious	{'Adjective': ['driven by lust; preoccupied with or exhibiting lustful desires']}
+lassitude	{'Noun': ['a state of comatose torpor (as found in sleeping sickness', 'a feeling of lack of interest or energy', 'weakness characterized by a lack of vitality or energy']}
+laud	{'Verb': ['praise, glorify, or honor']}
+laudable	{'Adjective': ['worthy of high praise']}
+laudatory	{'Adjective': ['full of or giving praise']}
+laurels	{'Noun': ['any of various aromatic trees of the laurel family', 'United States slapstick comedian (born in England', '1890-1965', '(antiquity', 'a tangible symbol signifying approval or distinction', 'the state of being honored']}
+lavishness	{'Noun': ['the quality possessed by something that is excessively expensive', 'excessive spending']}
+lax	"{'Adjective': ['lacking in rigor or strictness', ""pronounced with muscles of the tongue and jaw relatively relaxed (e.g., the vowel sound in `bet'"", 'lacking in firmness or tension; not taut', 'emptying easily or excessively']}"
+laxity	{'Noun': ['the condition of being physiologically lax', 'the quality of being lax and neglectful']}
+leery	{'Adjective': ['openly distrustful and unwilling to confide']}
+legume	{'Noun': ['an erect or climbing bean or pea plant of the family Leguminosae', 'the fruit or seed of any of various bean or pea plants consisting of a case that splits along both sides when ripe and having the seeds attach to one side of the case', 'the seedpod of a leguminous plant (such as peas or beans or lentils']}
+leitmotifs	"{'Noun': [""a melodic phrase that accompanies the reappearance of a person or situation (as in Wagner's operas""]}"
+licentious	{'Adjective': ['lacking moral discipline; especially sexually unrestrained']}
+limelight	{'Noun': ['a focus of public attention', 'a lamp consisting of a flame directed at a cylinder of lime with a lens to concentrate the light; formerly used for stage lighting']}
+lionize	{'Verb': ['assign great social importance to']}
+lissome	{'Adjective': ['gracefully thin and bending and moving with ease']}
+listlessly	{'Adverb': ['in a listless manner']}
+literary	{'Adjective': ['of or relating to or characteristic of literature', 'knowledgeable about literature', 'appropriate to literature rather than everyday speech or writing']}
+literati	{'Noun': ['the literary intelligentsia']}
+lithe	{'Adjective': ['gracefully thin and bending and moving with ease']}
+litigation	{'Noun': ['a legal proceeding in a court; a judicial contest to determine and enforce legal rights']}
+loath	"{'Adjective': ['unwillingness to do something contrary to your custom', ""(usually followed by `to'""]}"
+loathsome	{'Adjective': ['causing or able to cause nausea', 'highly offensive; arousing aversion or disgust']}
+lofty	{'Adjective': ['of high moral or intellectual value; elevated in nature or style', 'of imposing height; especially standing out above others', 'having or displaying great dignity or nobility']}
+logistical	{'Adjective': ['of or relating to logistics']}
+longtime	{'Adjective': ['having existed or persisted or continued in a particular role or state for a long time']}
+lubricious	{'Adjective': ['having a smooth or slippery quality', 'characterized by lust']}
+lucid	{'Adjective': ['(of language', 'having a clear mind', 'capable of thinking and expressing yourself in a clear and consistent manner', 'transmitting light; able to be seen through with clarity']}
+macabre	{'Adjective': ['shockingly repellent; inspiring horror']}
+magnanimity	{'Noun': ['liberality in bestowing gifts; extremely liberal and generous of spirit']}
+magnitude	{'Noun': ['the property of relative size or extent (whether large or small', 'a number assigned to the ratio of two quantities; two quantities are of the same order of magnitude if one is less than 10 times as large as the other; the number of magnitudes that the quantities differ is specified to within a power of 10', 'relative importance']}
+maladies	{'Noun': ['any unwholesome or desperate condition', 'impairment of normal physiological function affecting part or all of an organism']}
+maladjusted	{'Adjective': ['poorly adjusted to demands and stresses of daily living', 'emotionally unstable and having difficulty coping with personal relationships', 'not well adjusted']}
+maladroitness	{'Noun': ['unskillfulness resulting from a lack of training']}
+malicious	{'Adjective': ['having the nature of or resulting from malice']}
+malign	{'Verb': ['speak unfavorably about'], 'Adjective': ['evil or harmful in nature or influence', 'having or exerting a malignant influence']}
+malleable	{'Adjective': ['easily influenced', 'capable of being shaped or bent or drawn out']}
+manacled	{'Verb': ['confine or restrain with or as if with manacles or handcuffs']}
+manifest	"{'Noun': ['a customs document listing the contents put on a ship or plane'], 'Verb': [""provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes"", ""record in a ship's manifest"", 'reveal its presence or make an appearance'], 'Adjective': ['clearly revealed to the mind or the senses or judgment']}"
+manumit	{'Verb': ['free from slavery or servitude']}
+marginalize	{'Verb': ['relegate to a lower or outer edge, as of specific groups of people']}
+martial	{'Noun': ['Roman poet noted for epigrams (first century BC'], 'Adjective': ['(of persons', 'suggesting war or military life', 'of or relating to the armed forces']}
+maudlin	{'Adjective': ['effusively or insincerely emotional']}
+maxim	{'Noun': ['a saying that is widely accepted on its own merits', 'English inventor (born in the United States', '1840-1916']}
+mead	{'Noun': ['United States anthropologist noted for her claims about adolescence and sexual behavior in Polynesian cultures (1901-1978', 'United States philosopher of pragmatism (1863-1931', 'made of fermented honey and water']}
+meddlesome	{'Adjective': ['intrusive in a meddling or offensive manner']}
+medley	{'Noun': ['a musical composition consisting of a series of songs or other musical pieces from various sources']}
+melancholy	{'Noun': ['a feeling of thoughtful sadness', 'a constitutional tendency to be gloomy and depressed', 'a humor that was once believed to be secreted by the kidneys or spleen and to cause sadness and melancholy'], 'Adjective': ['characterized by or causing or expressing sadness', 'grave or even gloomy in character']}
+melange	{'Noun': ['a motley assortment of things']}
+mellifluous	{'Adjective': ['pleasing to the ear']}
+menacing	{'Verb': ['pose a threat to; present a danger to', 'express a threat either by an utterance or a gesture', 'act in a threatening manner'], 'Adjective': ['threatening or foreshadowing evil or tragic developments']}
+mendacious	{'Adjective': ['given to lying', 'intentionally untrue']}
+mercantilist
+mercenary	{'Noun': ['a person hired to fight for another country than their own'], 'Adjective': ['marked by materialism', 'serving for wages in a foreign army', 'profit oriented']}
+mercurial	{'Adjective': ['liable to sudden unpredictable change', 'relating to or under the (astrological', 'relating to or having characteristics (eloquence, shrewdness, swiftness, thievishness', 'relating to or containing or caused by mercury']}
+messianic	{'Adjective': ['of or relating to a messiah promising deliverance']}
+metastasize	{'Verb': ['spread throughout the body']}
+meticulous	{'Adjective': ['marked by precise accordance with details', 'marked by extreme care in treatment of details']}
+meticulousness	{'Noun': ['strict attention to minute details']}
+militant	{'Noun': ['a militant reformer'], 'Adjective': ['disposed to warfare or hard-line policies', 'showing a fighting disposition', 'engaged in war', 'or warring']}
+millennia	"{'Noun': ['a span of 1000 years', '(New Testament', ""e.g. Jehovah's Witnesses"", 'the 1000th anniversary (or the celebration of it']}"
+mimetic	{'Adjective': ['characterized by or of the nature of or using mimesis', 'exhibiting mimicry']}
+mindfulness	{'Noun': ['the trait of staying aware of (paying close attention to']}
+minuscule	"{'Noun': [""the characters that were once kept in bottom half of a compositor's type case"", 'a small cursive script developed from uncial between the 7th and 9th centuries and used in medieval manuscripts'], 'Adjective': ['of or relating to a small cursive script developed from uncial; 7th to 9th centuries', 'lowercase', 'extremely small']}"
+minutiae	{'Noun': ['a small or minor detail']}
+mirthful	{'Adjective': ['full of or showing high-spirited merriment', 'arousing or provoking laughter']}
+mishmash	{'Noun': ['a motley assortment of things']}
+misnomers	{'Noun': ['an incorrect or unsuitable name']}
+mitigate	{'Verb': ['lessen or to try to lessen the seriousness or extent of', 'make less severe or harsh']}
+mitigation	{'Noun': ['to act in such a way as to cause an offense to seem less serious', 'a partial excuse to mitigate censure; an attempt to represent an offense as less serious than it appears by showing mitigating circumstances', 'the action of lessening in severity or intensity']}
+moderate	{'Noun': ['a person who takes a position in the political center'], 'Verb': ['preside over', 'make less fast or intense', 'lessen the intensity of; temper; hold in restraint; hold or keep within limits', 'make less severe or harsh', 'make less strong or intense; soften', 'make more temperate, acceptable, or suitable by adding something else'], 'Adjective': ['being within reasonable or average limits; not excessive or extreme', 'not extreme', 'marked by avoidance of extravagance or extremes']}
+modicum	{'Noun': ['a small or moderate or token amount']}
+modishness	{'Noun': ['elegance by virtue of being fashionable']}
+mollifies	{'Verb': ['cause to be more favorably inclined; gain the good will of', 'make more temperate, acceptable, or suitable by adding something else', 'make less rigid or softer']}
+momentum	"{'Noun': ['an impelling force or strength', ""the product of a body's mass and its velocity""]}"
+mongers	{'Noun': ['someone who purchases and maintains an inventory of goods to be sold'], 'Verb': ['sell or offer for sale from place to place']}
+monolithic	{'Adjective': ['imposing in size or bulk or solidity', 'characterized by massiveness and rigidity and total uniformity']}
+monological
+moot	{'Noun': ['a hypothetical case that law students argue as an exercise'], 'Verb': ['think about carefully; weigh'], 'Adjective': ['of no legal significance (as having been previously decided', 'open to argument or debate']}
+moralizing	{'Noun': ['indulgence in moral pronouncements; the exposition (often superficially'], 'Verb': ['interpret the moral meaning of', 'speak as if delivering a sermon; express moral judgements', 'improve the morals of']}
+morbidities	{'Noun': ['the relative incidence of a particular disease', 'an abnormally gloomy or unhealthy state of mind', 'the quality of being unhealthful and generally bad for you']}
+mordant	{'Noun': ['a substance used to treat leather or other materials before dyeing; aids in dyeing process'], 'Adjective': ['harshly ironic or sinister', 'of a substance, especially a strong acid; capable of destroying or eating away by chemical action']}
+mores	"{'Noun': [""English statesman who opposed Henry VIII's divorce from Catherine of Aragon and was imprisoned and beheaded; recalled for his concept of Utopia, the ideal state"", '(sociology']}"
+moribund	{'Adjective': ['not growing or changing; without force or vitality', 'being on the point of death; breathing your last']}
+morose	{'Adjective': ['showing a brooding ill humor']}
+mote	{'Noun': ['(nontechnical usage']}
+motivation	{'Noun': ['the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior', 'the condition of being motivated', 'the act of motivating; providing incentive']}
+motley	"{'Noun': ['a collection containing a variety of sorts of things', ""a garment made of motley (especially a court jester's costume"", 'a multicolored woolen fabric woven of mixed threads in 14th to 17th century England'], 'Verb': ['make something more diverse and varied', 'make motley; color with different colors'], 'Adjective': ['consisting of a haphazard assortment of different kinds', 'having sections or patches colored differently and usually brightly']}"
+mummified	{'Verb': ['preserve while making lifeless', 'remove the organs and dry out (a dead body', 'dry up and shrivel due to complete loss of moisture']}
+mundane	{'Adjective': ['found in the ordinary course of events', 'concerned with the world or worldly matters', 'belonging to this earth or world; not ideal or heavenly']}
+munificent	{'Adjective': ['very generous']}
+munitions	{'Noun': ['weapons considered collectively', 'military supplies', 'defensive structure consisting of walls or mounds built around a stronghold to strengthen it'], 'Verb': ['supply with weapons']}
+musings	{'Noun': ['a calm, lengthy, intent consideration']}
+mutiny	{'Noun': ['open rebellion against constituted authority (especially by seamen or soldiers against their officers'], 'Verb': ['engage in a mutiny against an authority']}
+myopic	{'Adjective': ['unable to see distant objects clearly', 'lacking foresight or scope']}
+myriad	{'Noun': ['a large indefinite number', 'the cardinal number that is the product of ten and one thousand'], 'Adjective': ['too numerous to be counted']}
+mystics	{'Noun': ['someone who believes in the existence of realities beyond human comprehension']}
+nadir	{'Noun': ['an extreme state of adversity; the lowest point of anything', 'the point below the observer that is directly opposite the zenith on the imaginary sphere against which celestial bodies appear to be projected']}
+naive	{'Adjective': ['marked by or showing unaffected simplicity and lack of guile or worldly experience', 'of or created by one without formal training; simple or naive in style', 'inexperienced', 'lacking information or instruction', 'not initiated; deficient in relevant experience']}
+narcissists	{'Noun': ['someone in love with themselves']}
+nascent	{'Adjective': ['being born or beginning']}
+national	{'Noun': ['a person who owes allegiance to that nation'], 'Adjective': ['of or relating to or belonging to a nation or country', 'limited to or in the interests of a particular nation', 'concerned with or applicable to or belonging to an entire nation or country', 'owned or maintained for the public by the national government', 'inside the country', 'characteristic of or peculiar to the people of a nation', 'of or relating to nationality']}
+nave	{'Noun': ['the central area of a church']}
+neanderthals	{'Noun': ['extinct robust human of Middle Paleolithic in Europe and western Asia']}
+nebulous	{'Adjective': ['lacking definite form or limits', 'of or relating to or resembling a nebula', 'lacking definition or definite content']}
+negating	{'Verb': ['be in contradiction with', 'deny the truth of', 'prove negative; show to be false', 'make ineffective by counterbalancing the effect of']}
+nemesis	{'Noun': ['(Greek mythology', 'something causing misery or death']}
+nettled	{'Verb': ['sting with or as with nettles and cause a stinging pain or sensation', 'cause annoyance in; disturb, especially by minor irritations'], 'Adjective': ['aroused to impatience or anger']}
+nonchalance	{'Noun': ['the trait of remaining calm and seeming not to care; a casual lack of concern']}
+nonplussed	{'Verb': ['be a mystery or bewildering to'], 'Adjective': ['filled with bewilderment']}
+normalizing	{'Verb': ['become normal or return to its normal state', 'make normal or cause to conform to a norm or standard', 'bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling']}
+nose	{'Noun': ['the organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals', 'a front that resembles a human nose (especially the front of an aircraft', 'the front or forward projection of a tool or weapon', 'a small distance', 'a symbol of inquisitiveness', 'the sense of smell (especially in animals', 'a natural skill', 'a projecting spout from which a fluid is discharged'], 'Verb': ['search or inquire in a meddlesome way', 'advance the forward part of with caution', 'catch the scent of; get wind of', 'push or move with the nose', 'rub noses', 'defeat by a narrow margin']}
+notorious	{'Adjective': ['known widely and usually unfavorably']}
+novel	{'Noun': ['an extended fictional work in prose; usually in the form of a story', 'a printed and bound book that is an extended work of fiction'], 'Adjective': ['original and of a kind not seen before', 'pleasantly new or different']}
+novice	{'Noun': ['someone who has entered a religious order but has not taken final vows', 'someone new to a field or activity']}
+noxious	{'Adjective': ['injurious to physical or mental health']}
+nugatory	{'Adjective': ['of no real value']}
+obliterated	{'Verb': ['mark for deletion, rub off, or erase', 'make undecipherable or imperceptible by obscuring or concealing', 'remove completely from recognition or memory', 'do away with completely, without leaving a trace'], 'Adjective': ['reduced to nothingness']}
+obloquies
+obscure	{'Verb': ['make less visible or unclear', 'make unclear, indistinct, or blurred', 'make obscure or unclear', 'reduce a vowel to a neutral one, such as a schwa', 'make undecipherable or imperceptible by obscuring or concealing'], 'Adjective': ['not clearly expressed or understood', 'marked by difficulty of style or expression', 'difficult to find', 'not famous or acclaimed', 'not drawing attention', 'remote and separate physically or socially']}
+obsequious	{'Adjective': ['attempting to win favor from influential people by flattery', 'attentive in an ingratiating or servile manner']}
+obtuse	{'Adjective': ['of an angle; between 90 and 180 degrees', '(of a leaf shape', 'lacking in insight or discernment', 'slow to learn or understand; lacking intellectual acuity']}
+obviate	{'Verb': ['do away with', 'prevent the occurrence of; prevent from happening']}
+ode	{'Noun': ['a lyric poem with complex stanza forms']}
+officious	{'Adjective': ['intrusive in a meddling or offensive manner']}
+ominously	{'Adverb': ['in an ominous manner']}
+omissions	{'Noun': ['a mistake resulting from neglect', 'something that has been omitted', 'any process whereby sounds or words are left out of spoken words or phrases', 'neglecting to do something; leaving out or passing over something']}
+omnipotent	{'Adjective': ['having unlimited power']}
+onerous	{'Adjective': ['not easily borne; wearing']}
+opportunism	{'Noun': ['taking advantage of opportunities without regard for the consequences for others']}
+opprobrium	{'Noun': ['state of disgrace resulting from public abuse', 'a state of extreme dishonor']}
+opulent	{'Adjective': ['ostentatiously rich and superior in quality']}
+orthodox	{'Adjective': ['of or pertaining to or characteristic of Judaism', 'adhering to what is commonly accepted', 'of or relating to or characteristic of the Eastern Orthodox Church']}
+orthodoxy	{'Noun': ['the quality of being orthodox (especially in religion', 'a belief or orientation agreeing with conventional standards']}
+ostensibly	{'Adverb': ['from appearances alone']}
+ostentatious	{'Adjective': ['intended to attract notice and impress others', '(of a display']}
+ostracize	{'Verb': ['expel from a community or group', 'avoid speaking to or dealing with']}
+oust	{'Verb': ['remove from a position or office', 'remove and replace']}
+outright	{'Adjective': ['without reservation or exception'], 'Adverb': ['without restrictions or stipulations or further payments', 'without reservation or concealment', 'without any delay']}
+override	{'Noun': ['a manually operated device to correct the operation of an automatic device', 'the act of nullifying; making null and void; counteracting or overriding the effect or force of something'], 'Verb': ['rule against', 'prevail over', 'counteract the normal operation of (an automatic gear shift in a vehicle', 'ride (a horse']}
+overseer	{'Noun': ['a person who directs and manages an organization']}
+overt	{'Adjective': ['open and observable; not secret or hidden']}
+pacific	{'Noun': ['the largest ocean in the world'], 'Adjective': ['relating to or bordering the Pacific Ocean', 'disposed to peace or of a peaceful nature', 'promoting peace']}
+pacifist	{'Noun': ['someone opposed to violence as a means of settling disputes'], 'Adjective': ['opposed to war']}
+paean	{'Noun': ['a formal expression of praise', '(ancient Greece', 'especially one sung in ancient Greece to invoke or thank a deity']}
+painstaking	{'Adjective': ['characterized by extreme care and great effort']}
+palatable	{'Adjective': ['acceptable to the taste or mind']}
+pale	{'Noun': ['a wooden strip forming part of a fence'], 'Verb': ['turn pale, as if in fear'], 'Adjective': ['very light colored; highly diluted with white', '(of light', 'or wan', 'lacking in vitality or interest or effectiveness', 'abnormally deficient in color as suggesting physical or emotional distress', 'not full or rich']}
+palettes	{'Noun': ['the range of colour characteristic of a particular artist or painting or school of art', 'board that provides a flat surface on which artists mix paints and the range of colors used', 'one of the rounded armor plates at the armpits of a suit of armor']}
+palliate	{'Verb': ['lessen or to try to lessen the seriousness or extent of', 'provide physical relief, as from pain']}
+pallid	{'Adjective': ['abnormally deficient in color as suggesting physical or emotional distress', '(of light', 'or wan', 'lacking in vitality or interest or effectiveness']}
+panacea	{'Noun': ['(Greek mythology', 'hypothetical remedy for all ills or diseases; once sought by the alchemists']}
+pander	{'Noun': ['someone who procures customers for whores (in England they call a pimp a ponce'], 'Verb': ['yield (to', 'arrange for sexual partners for others']}
+panned	{'Verb': ['make a sweeping movement', 'wash dirt in a pan to separate out the precious minerals', 'express a totally negative opinion of']}
+pantheon	"{'Noun': ['all the gods of a religion', ""a monument commemorating a nation's dead heroes"", '(antiquity']}"
+parables	{'Noun': ['a short moral story (often with animal characters', '(New Testament']}
+paradigmatic	{'Adjective': ['of or relating to a grammatical paradigm', 'of or relating to a typical example', 'related as members of a substitution class']}
+paradigms	{'Noun': ['systematic arrangement of all the inflected forms of a word', 'a standard or typical example', 'the class of all items that can be substituted into the same position (or slot', 'are in paradigmatic relation with one another', 'the generally accepted perspective of a particular discipline at a given time']}
+paragon	{'Noun': ['an ideal instance; a perfect embodiment of a concept', 'model of excellence or perfection of a kind; one having no equal']}
+parameter	{'Noun': ['a constant in the equation of a curve that can be varied to yield a family of similar curves', 'any factor that defines a system and determines (or limits', '(computer science', 'a quantity (such as the mean or variance']}
+parcel	{'Noun': ['a wrapped container', 'the allotment of some amount by dividing something', 'an extended area of land', 'a collection of things wrapped or boxed together'], 'Verb': ['divide into parts', 'cover with strips of canvas', 'make into a wrapped container']}
+parlay	{'Noun': ['a series of wagers in which the winnings from one wager are used as a stake for the subsequent wagers'], 'Verb': ['stake winnings from one bet on a subsequent wager']}
+parlous	{'Adjective': ['fraught with danger']}
+parochial	{'Adjective': ['relating to or supported by or located in a parish', 'narrowly restricted in outlook or scope']}
+parodied	{'Verb': ['make a spoof of or make fun of', 'make a parody of']}
+parsimoniousness	{'Noun': ['extreme care in spending money; reluctance to spend money unnecessarily', 'extreme stinginess']}
+parsimony	{'Noun': ['extreme care in spending money; reluctance to spend money unnecessarily', 'extreme stinginess']}
+partiality	{'Noun': ['a predisposition to like something', 'an inclination to favor one group or view or opinion over alternatives']}
+partisan	{'Noun': ['a fervent and even militant proponent of something', 'an ardent and enthusiastic supporter of some person or activity', 'a pike with a long tapering double-edged blade with lateral projections; 16th and 17th centuries'], 'Adjective': ['devoted to a cause or party']}
+partisanship	{'Noun': ['an inclination to favor one group or view or opinion over alternatives']}
+partition	{'Noun': ['a vertical structure that divides or separates (as a wall divides one room from another', '(computer science', '(anatomy', 'the act of dividing or partitioning; separation by the creation of a boundary that divides or keeps apart'], 'Verb': ['divide into parts, pieces, or sections', 'separate or apportion into sections']}
+passable	{'Adjective': ['able to be passed or traversed or crossed', 'about average; acceptable']}
+patent	{'Noun': ['a document granting an inventor sole rights to an invention', 'an official document granting a right or privilege'], 'Verb': ['obtain a patent for', 'grant rights to; grant a patent for', 'make open to sight or notice'], 'Adjective': ['(of a bodily tube or passageway', 'clearly revealed to the mind or the senses or judgment']}
+paternal	"{'Adjective': [""belonging to or inherited from one's father"", 'characteristic of a father', 'relating to or characteristic of or befitting a parent', ""related on the father's side""]}"
+pathologies	{'Noun': ['the branch of medical science that studies the causes and nature and effects of diseases', 'any deviation from a healthy or normal condition']}
+patriarch	{'Noun': ['title for the heads of the Eastern Orthodox Churches (in Istanbul and Alexandria and Moscow and Jerusalem', 'the male head of family or tribe', 'any of the early biblical characters regarded as fathers of the human race', 'a man who is older and higher in rank than yourself']}
+patrician	{'Noun': ['a person of refined upbringing and manners', 'a member of the aristocracy'], 'Adjective': ['befitting a person of noble origin', 'belonging to or characteristic of the nobility or aristocracy']}
+patrons	{'Noun': ['a regular customer', 'the proprietor of an inn', 'someone who supports or champions something']}
+paucity	{'Noun': ['an insufficient quantity or number']}
+peasant	{'Noun': ['a country person', 'one of a (chiefly European', 'a crude uncouth ill-bred person lacking culture or refinement']}
+peccadilloes	{'Noun': ['a petty misdeed']}
+peculiarly	{'Adverb': ['uniquely or characteristically', 'in a manner differing from the usual or expected', 'to a distinctly greater extent or degree than is common', 'or specially']}
+pedagogy	{'Noun': ['the principles and methods of instruction', 'the profession of a teacher', 'the activities of educating or instructing; activities that impart knowledge or skill']}
+pedantic	{'Adjective': ['marked by a narrow focus on or display of learning especially its trivial aspects']}
+pedantry	{'Noun': ['an ostentatious and inappropriate display of learning']}
+peddle	{'Verb': ['sell or offer for sale from place to place']}
+pedestrian	{'Noun': ['a person who travels by foot'], 'Adjective': ['lacking wit or imagination']}
+peer	{'Noun': ['a person who is of equal standing with another in a group', 'a nobleman (duke or marquis or earl or viscount or baron'], 'Verb': ['look searchingly']}
+peers	{'Noun': ['a person who is of equal standing with another in a group', 'a nobleman (duke or marquis or earl or viscount or baron'], 'Verb': ['look searchingly']}
+penchant	{'Noun': ['a strong liking']}
+perennially	{'Adverb': ['in a perennial manner; repeatedly']}
+peril	{'Noun': ['a source of danger; a possibility of incurring loss or misfortune', 'a state of danger involving risk', 'a venture undertaken without regard to possible loss or injury'], 'Verb': ['pose a threat to; present a danger to', 'put in a dangerous, disadvantageous, or difficult position']}
+perilous	{'Adjective': ['fraught with danger']}
+pernicious	{'Adjective': ['exceedingly harmful', 'working or spreading in a hidden and usually injurious way']}
+perpetuate	{'Verb': ['cause to continue or prevail']}
+perpetuity	{'Noun': ['the property of being perpetual (seemingly ceaseless']}
+personable	{'Adjective': ['(of persons']}
+perspicacious	{'Adjective': ['acutely insightful and wise', 'mentally acute or penetratingly discerning']}
+pert	{'Adjective': ['characterized by a lightly pert and exuberant quality']}
+pertinent	{'Adjective': ['having precise or logical relevance to the matter at hand', 'being of striking appropriateness and pertinence']}
+perturbing	{'Verb': ['disturb in mind or make uneasy or cause to be worried or alarmed', 'disturb or interfere with the usual path of an electron or atom', 'cause a celestial body to deviate from a theoretically regular orbital motion, especially as a result of interposed or extraordinary gravitational pull', 'throw into great confusion or disorder'], 'Adjective': ['causing distress or worry or anxiety', 'or disturbing']}
+pervades	{'Verb': ['spread or diffuse through']}
+phased in
+philandering	{'Verb': ['have amorous affairs; of men', 'talk or behave amorously, without serious intentions']}
+phlegmatic	{'Adjective': ['showing little emotion']}
+piddling	"{'Verb': [""waste time; spend one's time idly or inefficiently"", 'eliminate urine'], 'Adjective': ['(informal', 'or small']}"
+pidgins	{'Noun': ['an artificial language used for trade between speakers of different languages']}
+piecemeal	{'Adjective': ['one thing at a time'], 'Adverb': ['a little bit at a time']}
+piety	{'Noun': ['righteousness by virtue of being pious']}
+pillory	{'Noun': ['a wooden instrument of punishment on a post with holes for the wrists and neck; offenders were locked in and so exposed to public scorn'], 'Verb': ['expose to ridicule or public scorn', 'punish by putting in a pillory', 'criticize harshly or violently']}
+piques	{'Noun': ['tightly woven fabric with raised cords', 'a sudden outburst of anger'], 'Verb': ['cause to feel resentment or indignation']}
+pitch	"{'Noun': ['the property of sound that varies with variation in the frequency of vibration', '(baseball', ""a vendor's position (especially on the sidewalk"", 'promotion by means of an argument and demonstration', 'degree of deviation from a horizontal plane', 'any of various dark heavy viscid substances obtained as a residue', 'a sports field with predetermined dimensions for playing soccer', 'a high approach shot in golf', 'an all-fours game in which the first card led is a trump', 'abrupt up-and-down motion (as caused by a ship or other conveyance', 'the action or manner of throwing something'], 'Verb': ['throw or toss with a light motion', 'move abruptly', 'fall or plunge forward', 'set to a certain pitch', 'sell or offer for sale from place to place', 'be at an angle', 'heel over', 'erect and fasten', 'throw or hurl from the mound to the batter, as in baseball', 'hit (a golf ball', 'lead (a card', 'set the level or character of']}"
+pith	{'Noun': ['soft spongelike central cylinder of the stems of most flowering plants', 'the choicest or most essential or most vital part of some idea or experience'], 'Verb': ['remove the pith from (a plant']}
+pithy	{'Adjective': ['concise and full of meaning']}
+placid	{'Adjective': ['(of a body of water', 'not easily irritated']}
+plastic	{'Noun': ['generic name for certain synthetic or semisynthetic materials that can be molded or extruded into objects or films or filaments or used for making e.g. coatings and adhesives', 'a card (usually plastic'], 'Adjective': ['capable of being molded or modeled (especially of earth or clay or other soft material', 'capable of being influenced or formed', 'forming or capable of forming or molding or fashioning']}
+plaudits	{'Noun': ['enthusiastic approval', 'enthusiastic approval']}
+plethora	{'Noun': ['extreme excess']}
+pliant	{'Adjective': ['capable of being influenced or formed', 'capable of being shaped or bent or drawn out', 'able to adjust readily to different conditions', 'capable of being bent or flexed or twisted without breaking']}
+plodding	{'Noun': ['hard monotonous routine work', 'the act of walking with a slow heavy gait'], 'Verb': ['walk heavily and firmly, as when weary, or through mud'], 'Adjective': ['(of movement']}
+plunder	{'Noun': ['goods or money obtained illegally'], 'Verb': ['take illegally; of intellectual property', 'plunder (a town', 'steal goods; take as spoils', 'destroy and strip of its possession']}
+poignant	{'Adjective': ['arousing affect', 'keenly distressing to the mind or feelings']}
+polarized	{'Verb': ['cause to vibrate in a definite pattern', 'cause to concentrate about two conflicting or contrasting positions', 'become polarized in a conflict or contrasting situation']}
+polemic	{'Noun': ['a writer who argues in opposition to others (especially in theology', 'a controversy (especially over a belief or dogma'], 'Adjective': ['of or involving dispute or controversy']}
+polemical	{'Adjective': ['of or involving dispute or controversy']}
+politic	{'Adjective': ['marked by artful prudence, expedience, and shrewdness', 'smoothly agreeable and courteous with a degree of sophistication']}
+politicized	{'Verb': ['give a political character to']}
+polymath	{'Noun': ['a person of great and varied learning']}
+ponderous	{'Adjective': ['slow and laborious because of weight', 'having great mass and weight and unwieldiness', 'labored and dull']}
+populace	{'Noun': ['people in general considered as a whole']}
+populist	{'Noun': ['someone who advocates the rights of the common people over those of the elite']}
+posit	{'Noun': ['(logic'], 'Verb': ['put (something somewhere', 'put before', 'take as a given; assume as a postulate or axiom']}
+posited	{'Verb': ['put (something somewhere', 'put before', 'take as a given; assume as a postulate or axiom']}
+posterity	{'Noun': ['all of the offspring of a given progenitor', 'all future generations']}
+postmodern	{'Adjective': ['of or relating to postmodernism']}
+posture	"{'Noun': ['the arrangement of the body and its limbs', ""characteristic way of bearing one's body"", 'a rationalized mental attitude', 'capability in terms of personnel and materiel that affect the capacity to fight a war'], 'Verb': ['behave affectedly or unnaturally in order to impress others', 'assume a posture as for artistic purposes']}"
+poultices	{'Noun': ['a medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc.'], 'Verb': ['dress by covering with a therapeutic substance']}
+pragmatic	{'Noun': ['an imperial decree that becomes part of the fundamental law of the land'], 'Adjective': ['concerned with practical matters', 'or pragmatic', 'of or concerning the theory of pragmatism', 'guided by practical experience and observation rather than theory']}
+pragmatists	{'Noun': ['an adherent of philosophical pragmatism', 'a person who takes a practical approach to problems and is concerned primarily with the success or failure of her actions']}
+precocious	{'Adjective': ['characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude', 'appearing or developing early']}
+predilection	{'Noun': ['a predisposition in favor of something', 'a strong liking']}
+preordained	{'Verb': ['foreordain or determine beforehand']}
+preposterous	{'Adjective': ['so unreasonable as to invite derision']}
+presage	{'Noun': ['a foreboding about what is about to happen', 'a sign of something about to happen'], 'Verb': ['indicate, as with a sign or an omen']}
+prescient	{'Adjective': ['perceiving the significance of events before they occur']}
+presentation	{'Noun': ['the activity of formally presenting something (as a prize or reward', 'a show or display; the act of presenting something to sight or view', 'the act of making something publicly available; presenting news or other information by broadcasting or printing it', 'the act of presenting a proposal', 'a visual representation of something', 'formally making a person known to another or to the public', '(obstetrics']}
+presumptuous	{'Adjective': ['excessively forward']}
+preternatural	{'Adjective': ['surpassing the ordinary or normal', 'existing outside of or not in accordance with nature']}
+priggish	{'Adjective': ['exaggeratedly proper']}
+primacy	{'Noun': ['the state of being first in importance']}
+primal	{'Adjective': ['serving as an essential component', 'having existed from the beginning; in an earliest or original stage or state']}
+probity	{'Noun': ['complete and confirmed integrity; having strong moral principles']}
+proclivity	{'Noun': ['a natural inclination']}
+procure	{'Verb': ['get by special effort', 'arrange for sexual partners for others']}
+prodigal	{'Noun': ['a recklessly extravagant consumer'], 'Adjective': ['recklessly wasteful']}
+prodigies	{'Noun': ['an unusually gifted or intelligent (young', 'a sign of something about to happen', 'an impressive or wonderful example of a particular quality']}
+profane	{'Verb': ['corrupt morally or by intemperance or sensuality', 'violate the sacred character of a place or language'], 'Adjective': ['characterized by profanity or cursing', 'not concerned with or devoted to religion', 'not holy because unconsecrated or impure or defiled', 'grossly irreverent toward what is held to be sacred']}
+profligate	{'Noun': ['a dissolute man in fashionable society', 'a recklessly extravagant consumer'], 'Adjective': ['recklessly wasteful', 'unrestrained by convention or morality']}
+profound	{'Adjective': ['showing intellectual penetration or emotional depth', 'of the greatest intensity; complete', 'far-reaching and thoroughgoing in effect especially on the nature of something', 'coming from deep within one', '(of sleep', 'situated at or extending to great depth; too deep to have been sounded or plumbed']}
+profundity	{'Noun': ['wisdom that is recondite and abstruse and profound', 'intellectual depth; penetrating knowledge; keen insight; etc', 'the intellectual ability to penetrate deeply into ideas', 'the quality of being physically deep']}
+progeny	{'Noun': ['the immediate descendants of a person']}
+prolific	{'Adjective': ['intellectually productive', 'bearing in abundance especially offspring']}
+prolix	{'Adjective': ['tediously prolonged or tending to speak or write at great length']}
+prologue	{'Noun': ['an introduction to a play']}
+promulgates	{'Verb': ['state or announce', 'put a law into effect by formal declaration']}
+prophetic	{'Adjective': ['foretelling events as if by supernatural intervention']}
+proponent	{'Noun': ['a person who pleads for a cause or propounds an idea']}
+propound	{'Verb': ['put forward, as of an idea']}
+propriety	{'Noun': ['correct or appropriate behavior']}
+proscribe	{'Verb': ['command against']}
+prose	{'Noun': ['ordinary writing as distinguished from verse', 'matter of fact, commonplace, or dull expression']}
+protagonist	{'Noun': ['a person who backs a politician or a team etc.', 'the principal character in a work of fiction']}
+protean	{'Adjective': ['taking on different forms']}
+proverbially	{'Adverb': ['in the manner of something that has become a byword']}
+providential	{'Adjective': ['peculiarly fortunate or appropriate; as if by divine intervention', 'relating to or characteristic of providence', 'resulting from divine providence']}
+provincial	{'Noun': ['(Roman Catholic Church', 'a country person'], 'Adjective': ['of or associated with a province', 'characteristic of the provinces or their people']}
+prudent	{'Adjective': ['careful and sensible; marked by sound judgment']}
+prudish	{'Adjective': ['exaggeratedly proper']}
+prurient	{'Adjective': ['characterized by lust']}
+psyche	"{'Noun': [""that which is responsible for one's thoughts, feelings, and conscious brain functions; the seat of the faculty of reason"", 'the immaterial part of a person; the actuating cause of an individual life', '(Greek mythology']}"
+puckish	{'Adjective': ['naughtily or annoyingly playful']}
+puerile	{'Adjective': ['of or characteristic of a child', 'displaying or suggesting a lack of maturity']}
+pulchritude	{'Noun': ['physical beauty (especially of a woman']}
+punctilious	{'Adjective': ['marked by precise accordance with details']}
+pundits	{'Noun': ['someone who has been admitted to membership in a scholarly field']}
+puritanical	{'Adjective': ['of or relating to Puritans or Puritanism', 'exaggeratedly proper', 'morally rigorous and strict']}
+purported	{'Verb': ['have the often specious appearance of being, intending, or claiming', 'propose or intend']}
+putative	{'Adjective': ['purported; commonly put forth or accepted as true on inconclusive grounds']}
+pynchon	{'Noun': ['United States writer of pessimistic novels about life in a technologically advanced society (born in 1937']}
+quaint	{'Adjective': ['strange in an interesting or pleasing way', 'very strange or unusual; odd or even incongruous in character or appearance', 'attractively old-fashioned (but not necessarily authentic']}
+qualified	"{'Verb': ['prove capable or fit; meet requirements', 'pronounce fit or able', 'make more specific', 'make fit or prepared', 'specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement', 'describe or portray the character or the qualities or peculiarities of', 'add a modifier to a constituent'], 'Adjective': ['meeting the proper standards and requirements and training for an office or position or task', 'limited or restricted; not absolute', 'holding appropriate documentation and officially on record as qualified to perform a specified function or practice a specified skill', ""restricted in meaning; (as e.g. `man' in `a tall man'"", 'contingent on something else']}"
+quanta	{'Noun': ['a discrete amount of something that is analogous to the quantities in quantum theory', '(physics', 'according to quantum theory']}
+quantum	{'Noun': ['a discrete amount of something that is analogous to the quantities in quantum theory', '(physics', 'according to quantum theory']}
+quarks	{'Noun': ['(physics', 'and their antiquarks', 'fresh unripened cheese of a smooth texture made from pasteurized milk, a starter, and rennet']}
+quips	{'Noun': ['a witty saying', 'witty remark'], 'Verb': ['make jokes or quips']}
+quixotic	{'Adjective': ['not sensible about practical matters; idealistic and unrealistic']}
+quotidian	{'Adjective': ['found in the ordinary course of events']}
+radiative
+railed	{'Verb': ['complain bitterly', 'enclose with rails', 'provide with rails', 'separate with a railing', 'convey (goods etc.', 'travel by rail or train', 'lay with rails', 'fish with a handline over the rails of a boat', 'spread negative information about', 'criticize severely']}
+rancorous	{'Adjective': ['showing deep-seated resentment']}
+rapier	{'Noun': ['a straight sword with a narrow blade and two edges']}
+rash	{'Noun': ['any red eruption of the skin', 'a series of unexpected and unpleasant occurrences'], 'Adjective': ['imprudently incurring risk', 'marked by defiant disregard for danger or consequences']}
+raucous	{'Adjective': ['unpleasantly loud and harsh', 'disturbing the public peace; loud and rough']}
+razed	{'Verb': ['tear down so as to make flat with the ground'], 'Adjective': ['torn down and broken up']}
+reactionary	{'Noun': ['an extreme conservative; an opponent of progress or liberalism'], 'Adjective': ['opposed to political or social liberalism or reform']}
+realist	{'Noun': ['a philosopher who believes that universals are real and exist independently of anyone thinking of them', 'a person who accepts the world as it literally is and deals with it accordingly', 'a painter who represents the world realistically and not in an idealized or romantic style']}
+recanted	{'Verb': ['formally reject or disavow a formerly held belief, usually under pressure']}
+recapitulated	{'Verb': ['summarize briefly', 'repeat stages of evolutionary development during the embryonic phase of life', 'repeat an earlier theme of a composition']}
+reciprocal	{'Noun': ['something (a term or expression or concept', '(mathematics', 'hybridization involving a pair of crosses that reverse the sexes associated with each genotype'], 'Adjective': ['concerning each of two or more persons or things; especially given or done in return', 'of or relating to the multiplicative inverse of a quantity or function']}
+recoiling	{'Verb': ['draw back, as with fear or pain', 'come back to the originator of an action with an undesired effect', 'spring back; spring away from an impact', 'spring back, as from a forceful thrust']}
+redacted	{'Verb': ['formulate in a particular style or language', 'prepare for publication or presentation by correcting, revising, or adapting']}
+redoubtable	{'Adjective': ['inspiring fear', 'worthy of respect or honor']}
+redresses	{'Noun': ['a sum of money paid in compensation for loss or injury', 'act of correcting an error or a fault or an evil'], 'Verb': ['make reparations or amends for']}
+redundant	{'Adjective': ['more than is needed, desired, or required', 'or unnecessary', 'repetition of same sense in different words']}
+referents	{'Noun': ['something referred to; the object of a reference', 'the first term in a proposition; the term to which other terms relate', 'something that refers; a term that refers to another term']}
+regressive	{'Adjective': ['(of taxes', 'opposing progress; returning to a former less advanced state']}
+rejoinder	{'Noun': ['a quick reply to a question or remark (especially a witty or critical one']}
+relished	{'Verb': ['derive or receive pleasure from; get enjoyment from; take pleasure in']}
+reminiscences	{'Noun': ['a mental impression retained and recalled from the past', 'the process of remembering (especially the process of recovering information by mental effort']}
+render	{'Noun': ['a substance similar to stucco but exclusively applied to masonry walls'], 'Verb': ['cause to become', 'give something useful or necessary to', 'give an interpretation or rendition of', 'give or supply', 'pass down', 'make over as a return', 'give back', 'to surrender someone or something to another', 'show in, or as in, a picture', 'coat with plastic or cement', 'bestow', 'restate (words', 'melt (fat or lard']}
+rendered	{'Verb': ['cause to become', 'give something useful or necessary to', 'give an interpretation or rendition of', 'give or supply', 'pass down', 'make over as a return', 'give back', 'to surrender someone or something to another', 'show in, or as in, a picture', 'coat with plastic or cement', 'bestow', 'restate (words', 'melt (fat or lard']}
+reneged	{'Verb': ['fail to fulfill a promise or obligation']}
+renowned	{'Adjective': ['widely known and esteemed']}
+repentant	{'Adjective': ['feeling or expressing remorse for misdeeds']}
+repertory	{'Noun': ['a storehouse where a stock of things is kept', 'the entire range of skills or aptitudes or devices used in a particular field or occupation', 'a collection of works (plays, songs, operas, ballets', 'a theatrical company that performs plays from a repertoire']}
+repulsed	{'Verb': ['force or drive back', 'be repellent to; cause aversion in', 'cause to move back by force or influence']}
+requisite	{'Noun': ['anything indispensable'], 'Adjective': ['necessary for relief or supply']}
+requite	{'Verb': ['make repayment for or return something']}
+resilience	{'Noun': ['the physical property of a material that can return to its original shape or position after deformation that does not exceed its elastic limit', 'an occurrence of rebounding or springing back']}
+restitution	{'Noun': ['a sum of money paid in compensation for loss or injury', 'the act of restoring something to its original state', 'getting something back again']}
+restorative	{'Noun': ['a medicine that strengthens and invigorates', 'a device for treating injury or disease'], 'Adjective': ['tending to impart new life and vigor to', 'promoting recuperation']}
+resurrected	{'Verb': ['cause to become alive again', 'restore from a depressed, inactive, or unused state', 'return from the dead']}
+retching	{'Verb': ['eject the contents of the stomach through the mouth', 'make an unsuccessful effort to vomit; strain to vomit']}
+retort	{'Noun': ['a quick reply to a question or remark (especially a witty or critical one', 'a vessel where substances are distilled or decomposed by heat'], 'Verb': ['answer back']}
+retrograde	{'Verb': ['move backward in an orbit, of celestial bodies', 'move in a direction contrary to the usual one', 'move back', 'go back over', 'get worse or fall back to a previous condition'], 'Adjective': ['moving from east to west on the celestial sphere; or--for planets--around the sun in a direction opposite to that of the Earth', 'of amnesia; affecting time immediately preceding trauma', 'going from better to worse', 'moving or directed or tending in a backward direction or contrary to a previous direction']}
+retrospective	"{'Noun': [""an exhibition of a representative selection of an artist's life work""], 'Adjective': ['concerned with or related to the past']}"
+reverent	{'Adjective': ['feeling or showing profound respect or veneration', 'showing great reverence for god']}
+revisionist	{'Noun': ['a Communist who tries to rewrite Marxism to justify a retreat from the revolutionary position']}
+revivification	{'Noun': ['bringing again into activity and prominence']}
+rhetoric	{'Noun': ['using language effectively to please or persuade', 'high-flown style; excessive use of verbal ornamentation', 'loud and confused and empty talk', 'study of the technique and rules for using language effectively (especially in public speaking']}
+riddled	{'Verb': ['pierce with many holes', 'set a difficult problem or riddle', 'separate with a riddle, as grain from chaff', 'spread or diffuse through', 'speak in riddles', 'explain a riddle'], 'Adjective': ['spread throughout']}
+rife with
+risqué
+robust	{'Adjective': ['sturdy and strong in form, constitution, or construction', 'marked by richness and fullness of flavor', 'strong enough to withstand or overcome intellectual challenges or adversity', 'rough and crude']}
+rout	{'Noun': ['a disorderly crowd of people', 'an overwhelming defeat'], 'Verb': ['cause to flee', 'dig with the snout', 'make a groove in', 'defeat disastrously']}
+rue	{'Noun': ['European strong-scented perennial herb with grey-green bitter-tasting leaves; an irritant similar to poison ivy', 'leaves sometimes used for flavoring fruit or claret cup but should be used with great caution: can cause irritation like poison ivy', 'sadness associated with some wrong done or some disappointment', '(French'], 'Verb': ['feel remorse for; feel sorry for; be contrite about']}
+saccharine	{'Adjective': ['overly sweet']}
+sagacious	{'Adjective': ['acutely insightful and wise', 'skillful in statecraft or management']}
+sages	{'Noun': ['a mentor in spiritual and philosophical topics who is renowned for profound wisdom', 'aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc', 'any of various plants of the genus Salvia; a cosmopolitan herb']}
+salubrious	{'Adjective': ['promoting health; healthful', 'favorable to health of mind or body']}
+salutation	{'Noun': ['an act of honor or courteous recognition', '(usually plural', 'especially on meeting', 'word of greeting used to begin a letter']}
+salvo	{'Noun': ['an outburst resembling the discharge of firearms or the release of bombs', 'rapid simultaneous discharge of firearms', 'a sudden outburst of cheers']}
+sanctioned	{'Verb': ['give sanction to', 'give authority or permission to', 'give religious sanction to, such as through on oath'], 'Adjective': ['conforming to orthodox or recognized rules', 'formally approved and invested with legal authority', 'established by authority; given authoritative approval']}
+sangfroid
+sanguinary	{'Adjective': ['accompanied by bloodshed', 'marked by eagerness to resort to violence and bloodshed']}
+sanguine	{'Noun': ['a blood-red color'], 'Adjective': ['confidently optimistic and cheerful', 'inclined to a healthy reddish color often associated with outdoor life']}
+sardonic	{'Adjective': ['disdainfully or ironically humorous; scornful and mocking']}
+sartorial	{'Adjective': ['of or relating to the sartorius muscle', 'of or relating to a tailor or to tailoring']}
+satiric	{'Adjective': ['exposing human folly to ridicule']}
+satisfies	{'Verb': ['meet the requirements or expectations of', 'make happy or satisfied', 'fill, satisfy or meet a want or need or condtion ro restriction']}
+savvy	{'Noun': ['the cognitive condition of someone who understands'], 'Verb': ['get the meaning of something']}
+scandal	{'Noun': ['disgraceful gossip about the private lives of other people', 'a disgraceful event']}
+scanty	{'Noun': ['short underpants for women or children (usually used in the plural'], 'Adjective': ['lacking in magnitude or quantity', '(of clothing']}
+scarcity	{'Noun': ['a small and inadequate amount']}
+scintillating	{'Verb': ['give off', 'reflect brightly', 'emit or reflect light in a flickering manner', 'physics: fluoresce momentarily when struck by a charged particle or high-energy photon', 'be lively or brilliant or exhibit virtuosity'], 'Adjective': ['brilliantly clever', 'marked by high spirits or excitement', 'having brief brilliant points or flashes of light']}
+scotch	{'Noun': ['a slight surface cut (especially a notch that is made to keep a tally', 'whiskey distilled in Scotland; especially whiskey made from malted barley in a pot still'], 'Verb': ['hinder or prevent (the efforts, plans, or desires', 'make a small cut or score into'], 'Adjective': ['of or relating to or characteristic of Scotland or its people or culture or its English dialect or Gaelic language', 'avoiding waste']}
+scrutinized	{'Verb': ['to look at critically or searchingly, or in minute detail', 'examine carefully for accuracy with the intent of verification']}
+seasoned	{'Verb': ['lend flavor to', 'make fit', 'make more temperate, acceptable, or suitable by adding something else'], 'Adjective': ['aged or processed', 'rendered competent through trial and experience']}
+sectarian	{'Noun': ['a member of a sect'], 'Adjective': ['of or relating to or characteristic of a sect or sects', 'belonging to or characteristic of a sect']}
+seditious	{'Adjective': ['arousing to action or rebellion', 'in opposition to a civil authority or government']}
+sedulous	{'Adjective': ['marked by care and persistent effort']}
+seemingly	{'Adverb': ['from appearances alone']}
+seething	{'Verb': ['be noisy with activity', 'be in an agitated emotional state', 'foam as if boiling', 'boil vigorously'], 'Adjective': ['in constant agitation']}
+selfless	{'Adjective': ['showing unselfish concern for the welfare of others']}
+semblance	{'Noun': ['an outward or token appearance or form that is deliberately misleading', 'an erroneous mental representation', 'picture consisting of a graphic image of a person or thing']}
+semiotic	{'Adjective': ['of or relating to semiotics']}
+sensibilities	{'Noun': ['mental responsiveness and awareness', 'refined sensitivity to pleasurable or painful impressions', '(physiology']}
+sentiments	{'Noun': ['tender, romantic, or nostalgic feeling or emotion', 'a personal belief or judgment that is not founded on proof or certainty']}
+sentries	{'Noun': ['a person employed to keep watch for some anticipated event']}
+serendipitous	{'Adjective': ['lucky in making unexpected and fortunate discoveries']}
+serendipity	{'Noun': ['good luck in making unexpected and fortunate discoveries']}
+seriously	{'Adverb': ['in a serious manner', 'to a severe or serious degree']}
+shaman	{'Noun': ['in societies practicing shamanism: one acting as a medium between the visible and spirit worlds; practices sorcery for healing or divination']}
+shunned	{'Verb': ['avoid and stay away from deliberately; stay clear of', 'expel from a community or group']}
+shuttered	{'Verb': ['close with shutters'], 'Adjective': ['provided with shutters or shutters as specified; often used in combination']}
+signify	{'Verb': ['denote or connote', 'convey or express a meaning', 'make known with a word or signal']}
+similes	"{'Noun': [""a figure of speech that expresses a resemblance between things of different kinds (usually formed with `like' or `as'""]}"
+simony	{'Noun': ['traffic in ecclesiastical offices or preferments']}
+simpatico
+simulacrum	{'Noun': ['an insubstantial or vague semblance', 'a representation of a person (especially in the form of sculpture']}
+sinecure	{'Noun': ['a benefice to which no spiritual or pastoral duties are attached', 'an office that involves minimal duties']}
+singular	{'Noun': ['the form of a word that is used to denote a singleton'], 'Adjective': ['unusual or striking', 'beyond or deviating from the usual or expected', 'being a single and separate person or thing', 'composed of one member, set, or kind', 'grammatical number category referring to a single item or unit', 'the single one of its kind']}
+skittish	{'Adjective': ['unpredictably excitable (especially of horses']}
+skulk	{'Verb': ['lie in wait, lie in ambush, behave in a sneaky and secretive manner', 'avoid responsibilities and duties, e.g., by pretending to be ill', 'move stealthily']}
+slanderous	{'Adjective': ['(used of statements']}
+slipstream	{'Noun': ['the flow of air that is driven backwards by an aircraft propeller']}
+sloth	{'Noun': ['a disinclination to work or exert yourself', 'any of several slow-moving arboreal mammals of South America and Central America; they hang from branches back downward and feed on leaves and fruits', 'apathy and inactivity in the practice of virtue (personified as one of the deadly sins']}
+smitten	{'Verb': ['inflict a heavy blow on, with the hand, a tool, or a weapon', 'affect suddenly with deep feeling', 'cause physical pain or suffering in'], 'Adjective': ['(used in combination', 'marked by foolish or unreasoning fondness']}
+sobriquets	"{'Noun': [""a familiar name for a person (often a shortened version of a person's given name""]}"
+socialist	{'Noun': ['a political advocate of socialism'], 'Adjective': ['advocating or following the socialist principles']}
+solace	{'Noun': ['the comfort you feel when consoled in times of disappointment', 'comfort in disappointment or misery', 'the act of consoling; giving relief in affliction'], 'Verb': ['give moral or emotional strength to']}
+sole	{'Noun': ['the underside of footwear or a golf club', 'lean flesh of any of several flatfish', 'the underside of the foot', 'right-eyed flatfish; many are valued as food; most common in warm seas especially European'], 'Verb': ['put a new sole on'], 'Adjective': ['not divided or shared with others', 'being the only one; single and isolated from others']}
+solecisms	{'Noun': ['a socially awkward or tactless act']}
+solemnity	{'Noun': ['a trait of dignified seriousness', 'a solemn and dignified feeling']}
+soliciting	{'Verb': ['make a solicitation or entreaty for something; request urgently or persistently', 'make amorous advances towards', 'approach with an offer of sexual favors', 'incite, move, or persuade to some act of lawlessness or insubordination', 'make a solicitation or petition for something desired']}
+solicitous	{'Adjective': ['full of anxiety and concern', 'showing hovering attentiveness']}
+solicitousness	{'Noun': ['a feeling of excessive concern']}
+solipsistic
+solvent	{'Noun': ['a liquid substance capable of dissolving other substances', 'a statement that solves a problem or explains how to solve the problem'], 'Adjective': ['capable of meeting financial obligations']}
+somber	{'Adjective': ['lacking brightness or color; dull', 'grave or even gloomy in character']}
+sophistry	{'Noun': ['a deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone']}
+sophomoric
+sound	{'Noun': ['the particular auditory effect produced by a given cause', 'the subjective sensation of hearing something', 'mechanical vibrations transmitted by an elastic medium', 'the sudden occurrence of an audible event', 'the audible part of a transmitted signal', '(phonetics', 'a narrow channel of the sea joining two larger bodies of water', 'a large ocean inlet or deep bay'], 'Verb': ['appear in a certain way', 'make a certain noise or sound', 'give off a certain sound or sounds', 'announce by means of a sound', 'utter with vibrating vocal chords', 'cause to sound', 'measure the depth of (a body of water'], 'Adjective': ['financially secure and safe', 'exercising or showing good judgment', 'in good condition; free from defect or damage or decay', 'in excellent physical condition', 'logically valid', 'having legal efficacy or force', 'vigorous or severe', 'free from moral defect', '(of sleep', 'complete; thorough']}
+spartan	{'Noun': ['a resident of Sparta'], 'Adjective': ['of or relating to or characteristic of Sparta or its people', 'resolute in the face of pain or danger or adversity', 'unsparing and uncompromising in discipline or judgment', 'practicing great self-denial']}
+specious	{'Adjective': ['plausible but false', 'based on pretense; deceptively pleasing']}
+specter	{'Noun': ['a mental representation of some haunting experience', 'a ghostly appearing figure']}
+spectroscopy	{'Noun': ['the use of spectroscopes to analyze spectra']}
+spontaneous	{'Adjective': ['happening or arising without apparent external cause', 'said or done without having been planned or written in advance']}
+spooked	{'Verb': ['frighten or scare, and often provoke into a violent action']}
+spurious	{'Adjective': ['ostensibly valid, but not actually valid', 'plausible but false', 'born out of wedlock', 'false or fake; not what it appears to be']}
+squalid	{'Adjective': ['morally degraded', 'foul and run-down and repulsive']}
+stagnant	{'Adjective': ['not circulating or flowing', 'not growing or changing; without force or vitality']}
+stanchion	{'Noun': ['any vertical post or rod used as a support']}
+statue	{'Noun': ['a sculpture representing a human or animal']}
+staunch	{'Verb': ['stop the flow of a liquid'], 'Adjective': ['firm and dependable especially in loyalty']}
+stem	{'Noun': ['(linguistics', 'a slender or elongated structure that supports a plant or fungus or a plant part or plant organ', 'cylinder forming a long narrow part of something', 'the tube of a tobacco pipe', 'front part of a vessel or aircraft', 'a turn made in skiing; the back of one ski is forced outward and the other ski is brought parallel to it'], 'Verb': ['grow out of, have roots in, originate in', 'cause to point inward', 'stop the flow of a liquid', 'remove the stem from']}
+stems	{'Noun': ['(linguistics', 'a slender or elongated structure that supports a plant or fungus or a plant part or plant organ', 'cylinder forming a long narrow part of something', 'the tube of a tobacco pipe', 'front part of a vessel or aircraft', 'a turn made in skiing; the back of one ski is forced outward and the other ski is brought parallel to it'], 'Verb': ['grow out of, have roots in, originate in', 'cause to point inward', 'stop the flow of a liquid', 'remove the stem from']}
+steward	"{'Noun': ['someone who manages property or other affairs for someone else', ""the ship's officer who is in charge of provisions and dining arrangements"", 'an attendant on an airplane', 'a union member who is elected to represent fellow workers in negotiating with management', 'one having charge of buildings or grounds or animals']}"
+stipulate	{'Verb': ['specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement', 'give a guarantee or promise of', 'make an oral contract or agreement in the verbal form of question and answer that is necessary to give it legal force']}
+stoic	{'Noun': ['a member of the ancient Greek school of philosophy founded by Zeno', 'someone who is seemingly indifferent to emotions'], 'Adjective': ['seeming unaffected by pleasure or pain; impassive', 'pertaining to Stoicism or its followers']}
+stolid	{'Adjective': ['having or revealing little emotion or sensibility; not easily aroused or excited']}
+stouter	"{'Adjective': ['dependable', ""euphemisms for `fat'"", 'having rugged physical strength; inured to fatigue or hardships']}"
+strapping	{'Verb': ['tie with a strap', 'beat severely with a whip or rod', 'sharpen with a strap', 'secure (a sprained joint'], 'Adjective': ['muscular and heavily built']}
+stratagem	{'Noun': ['a maneuver in a game or conversation', 'an elaborate or deceitful scheme contrived to deceive or evade']}
+stridency	{'Noun': ['having the timbre of a loud high-pitched sound']}
+strife	{'Noun': ['lack of agreement or harmony', 'bitter conflict; heated often violent dissension']}
+strive	{'Verb': ['attempt by employing effort', 'to exert much effort or energy']}
+subterfuge	{'Noun': ['something intended to misrepresent the true nature of an activity']}
+subversion	"{'Noun': [""destroying someone's (or some group's"", 'the act of subverting; as overthrowing or destroying a legally constituted government']}"
+subverted	{'Verb': ['cause the downfall of; of rulers', 'corrupt morally or by intemperance or sensuality', 'destroy property or hinder normal operations', 'destroy completely']}
+suffrage	{'Noun': ['a legal right guaranteed by the 15th amendment to the US Constitution; guaranteed to women by the 19th amendment']}
+superficial	{'Adjective': ['concerned with or comprehending only what is apparent or obvious; not deep or penetrating emotionally or intellectually', 'of, affecting, or being on or near the surface', 'of little substance or significance', 'occurring on or near the surface of the skin', 'hasty and without attention to detail; not thorough', 'or cursory']}
+superfluous	{'Adjective': ['serving no useful purpose; having no excuse for being', 'more than is needed, desired, or required', 'or unnecessary']}
+supersede	{'Verb': ['take the place or move into the position of']}
+supplants	{'Verb': ['take the place or move into the position of']}
+supplement	{'Noun': ['textual matter that is added onto a publication; usually at the end', 'a quantity added (e.g. to make up for a deficiency', 'a supplementary component that improves capability'], 'Verb': ['add as a supplement to what seems insufficient', 'serve as a supplement to', 'add to the very end']}
+supplicated	{'Verb': ['ask humbly (for something', 'make a humble, earnest petition', 'ask for humbly or earnestly, as in prayer']}
+surreptitious	{'Adjective': ['marked by quiet and caution and secrecy; taking pains to avoid being observed', 'conducted with or marked by hidden aims or methods']}
+sussing
+sweeping	{'Noun': ['the act of cleaning with a broom'], 'Verb': ['sweep across or over', 'move with sweeping, effortless, gliding motions', 'sweep with a broom or as if with a broom', 'force into some kind of situation, condition, or course of action', 'to cover or extend over an area or time period', 'clean by sweeping', 'win an overwhelming victory in or on', 'cover the entire range of', 'make a big sweeping gesture or movement'], 'Adjective': ['taking in or moving over (or as if over', 'ignoring distinctions']}
+sycophant	{'Noun': ['a person who tries to please someone in order to gain a personal advantage']}
+syncopated	{'Verb': ['omit a sound or letter in a word', 'modify the rhythm by stressing or accenting a weak beat'], 'Adjective': ['stressing a normally weak beat']}
+synergetic	{'Adjective': ['working together; used especially of groups, as subsidiaries of a corporation, cooperating for an enhanced effect']}
+synoptic	{'Adjective': ['presenting a summary or general view of a whole', 'presenting or taking the same point of view; used especially with regard to the first three gospels of the New Testament']}
+tacit	{'Adjective': ['implied by or inferred from actions or statements']}
+taciturn	{'Adjective': ['habitually reserved and uncommunicative']}
+taciturnity	{'Noun': ['the trait of being uncommunicative; not volunteering anything more than necessary']}
+tangential	{'Adjective': ['of superficial relevance if any', 'of or relating to or acting along or in the direction of a tangent']}
+tangible	{'Adjective': ['perceptible by the senses especially the sense of touch', 'capable of being treated as fact', '(of especially business assets', 'capable of being perceived; especially capable of being handled or touched or felt']}
+tantamount	{'Adjective': ['being essentially equal to something']}
+tarry	{'Verb': ['be about', 'leave slowly and hesitantly'], 'Adjective': ['having the characteristics of pitch or tar']}
+tat	{'Noun': ['tastelessness by virtue of being cheap and vulgar', 'a projective technique using black-and-white pictures; subjects tell a story about each picture'], 'Verb': ['make lacework by knotting or looping']}
+taut	{'Adjective': ['pulled or drawn tight', 'subjected to great tension; stretched tight']}
+taxonomy	{'Noun': ['a classification of organisms into groups based on similarities of structure or origin etc', '(biology', 'practice of classifying plants and animals according to their presumed natural relationships']}
+teeming	{'Verb': ['be teeming, be abuzz', 'move in large numbers'], 'Adjective': ['abundantly filled with especially living things']}
+temper	{'Noun': ['a sudden outburst of anger', 'a characteristic (habitual or relatively temporary', 'a disposition to exhibit uncontrolled anger', 'the elasticity and hardness of a metal object; its ability to absorb considerable energy before cracking'], 'Verb': ['bring to a desired consistency, texture, or hardness by a process of gradually heating and cooling', 'harden by reheating and cooling in oil', 'adjust the pitch (of pianos', 'make more temperate, acceptable, or suitable by adding something else', 'change by restraining or moderating']}
+temperate	{'Adjective': ['(of weather or climate', 'not extreme in behavior', 'not extreme']}
+tenaciously	{'Adverb': ['with obstinate determination']}
+tenacity	{'Noun': ['persistent determination']}
+tendentious	{'Adjective': ['having or marked by a strong tendency especially a controversial one']}
+tenets	{'Noun': ['a religious doctrine that is proclaimed as true without proof']}
+tepid	{'Adjective': ['moderately warm', 'feeling or showing little interest or enthusiasm']}
+terseness	{'Noun': ['a neatly short and concise expressive style']}
+tethered	{'Verb': ['tie with a tether'], 'Adjective': ['confined or restricted with or as if with a rope or chain']}
+theology	{'Noun': ['the rational and systematic study of religion and its influences and of the nature of religious truth', 'a particular system or school of religious beliefs and teachings', 'the learned profession acquired by specialized courses in religion (usually taught at a college or seminary']}
+theses	{'Noun': ['an unproved statement put forward as a premise in an argument', 'a treatise advancing a new point of view resulting from research; usually a requirement for an advanced academic degree']}
+timorous	{'Adjective': ['timid by nature or revealing timidity']}
+tirade	{'Noun': ['a speech of violent denunciation']}
+titillation	{'Noun': ['a tingling feeling of excitement (as from teasing or tickling', 'an agreeable arousal', 'the act of tickling']}
+toil	{'Noun': ['productive work (especially physical work done for wages'], 'Verb': ['work hard']}
+tonality	{'Noun': ['any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music']}
+tony
+torpid	{'Adjective': ['slow and apathetic', 'in a condition of biological rest or suspended animation']}
+torpor	{'Noun': ['a state of motor and mental inactivity with a partial suspension of sensibility', 'inactivity resulting from lethargy and lack of vigor or energy']}
+tortuous	{'Adjective': ['highly complex or intricate and occasionally devious', 'marked by repeated turns and bends', 'not straightforward']}
+torturous	{'Adjective': ['extremely painful']}
+totalitarian	{'Noun': ['an adherent of totalitarian principles or totalitarian government'], 'Adjective': ['characterized by a government in which the political authority exercises absolute and centralized control', 'of or relating to the principles of totalitarianism according to which the state regulates every realm of life']}
+touchstone	{'Noun': ['a basis for comparison; a reference point against which other things can be evaluated']}
+tout	{'Noun': ['someone who buys tickets to an event in order to resell them at a profit', 'someone who advertises for customers in an especially brazen way', 'one who sells advice about gambling or speculation (especially at the racetrack'], 'Verb': ['advertize in strongly positive terms', 'show off']}
+touted	{'Verb': ['advertize in strongly positive terms', 'show off']}
+tractable	{'Adjective': ['easily managed (controlled or taught or molded', 'responsive to suggestions and influences']}
+transgressor	{'Noun': ['someone who transgresses; someone who violates a law or command']}
+transient	{'Noun': ['one who stays for only a short time', '(physics'], 'Adjective': ['of a mental act; causing effects outside the mind', 'lasting a very short time']}
+transmogrify	{'Verb': ['change completely the nature or appearance of']}
+transmute	{'Verb': ['change in outward structure or looks', 'change or alter in form, appearance, or nature', 'alter the nature of (elements']}
+tremulous	{'Adjective': ['(of the voice']}
+trenchant	{'Adjective': ['having keenness and forcefulness and penetration in thought, expression, or intellect', 'characterized by or full of force and vigor', 'clearly or sharply defined to the mind']}
+trepidation	{'Noun': ['a feeling of alarm or dread']}
+triage	{'Noun': ['sorting and allocating aid on the basis of need for or likely benefit from medical treatment or food']}
+tribute	{'Noun': ['something given or done as an expression of esteem', 'payment by one nation for protection by another', 'payment extorted by gangsters on threat of violence']}
+trilobites	{'Noun': ['an extinct arthropod that was abundant in Paleozoic times; had an exoskeleton divided into three parts']}
+truculent	{'Adjective': ['defiantly aggressive']}
+truisms	{'Noun': ['an obvious truth']}
+turbines	{'Noun': ['rotary engine in which the kinetic energy of a moving fluid is converted into mechanical energy by causing a bladed rotor to rotate']}
+turpitude	{'Noun': ['a corrupt or depraved or degenerate act or practice']}
+tyrannical	{'Adjective': ['marked by unjust severity or arbitrary behavior', 'characteristic of an absolute ruler or absolute rule; having absolute sovereignty']}
+ubiquitous	{'Adjective': ['being present everywhere at once']}
+unabashed	{'Adjective': ['not embarrassed']}
+unbridled	{'Verb': ['remove the bridle from (a horse or mule'], 'Adjective': ['not restrained or controlled']}
+unconscionable	{'Adjective': ['lacking a conscience', 'greatly exceeding bounds of reason or moderation']}
+uncouth	{'Adjective': ['lacking refinement or cultivation or taste']}
+undermined	{'Verb': ['destroy property or hinder normal operations', 'hollow out as if making a cave or opening']}
+underscore	{'Noun': ['a line drawn underneath (especially under written matter'], 'Verb': ['give extra weight to (a communication', 'draw a line or lines underneath to call attention to']}
+unflappable	{'Adjective': ['not easily perturbed or excited or upset; marked by extreme calm and composure']}
+unilateral	{'Adjective': ['involving only one part or side', 'tracing descent from either the paternal or the maternal line only']}
+unkempt	{'Adjective': ['not neatly combed', 'not properly maintained or cared for']}
+unnerve	{'Verb': ['disturb the composure of']}
+unpropitious	{'Adjective': ['not propitious']}
+unqualified	{'Adjective': ['not limited or restricted', 'not meeting the proper standards and requirements and training', 'legally not qualified or sufficient', 'having no right or entitlement']}
+unscrupulous	{'Adjective': ['without scruples or principles']}
+unseemly	{'Adjective': ['not in keeping with accepted standards of what is right or proper in polite society']}
+unwavering	{'Adjective': ['marked by firm determination or resolution; not shakable', 'not showing abrupt variations']}
+unwieldy	{'Adjective': ['difficult to use or handle or manage because of size or weight or shape', 'difficult to work or manipulate', 'lacking grace in movement or posture']}
+upend	{'Verb': ['become turned or set on end', 'set, turn, or stand on end']}
+urbane	{'Adjective': ['showing a high degree of refinement and the assurance that comes from wide social experience']}
+urbanity	{'Noun': ['polished courtesy; elegance of manner', 'the quality or character of life in a city or town']}
+utilitarian	{'Noun': ['someone who believes that the value of a thing depends on its utility'], 'Adjective': ['having a useful function', 'having utility often to the exclusion of values']}
+utopia	{'Noun': ['a book written by Sir Thomas More (1516', 'ideally perfect state; especially in its social and political and moral aspects', 'a work of fiction describing a utopia', 'an imaginary place considered to be perfect or ideal']}
+vacillating	{'Verb': ['be undecided about something; waver between conflicting positions or courses of action', 'move or sway in a rising and falling or wavelike pattern'], 'Adjective': ['uncertain in purpose or action']}
+vacuity	{'Noun': ['the absence of matter', 'a region that is devoid of matter', 'total lack of meaning or ideas']}
+vainglorious	{'Adjective': ['feeling self-importance']}
+vapid	{'Adjective': ['lacking taste or flavor or tang', 'lacking significance or liveliness or spirit or zest']}
+variegated	{'Verb': ['change the appearance of, especially by marking with different colors', 'make something more diverse and varied'], 'Adjective': ['having a variety of colors']}
+venal	{'Adjective': ['capable of being corrupted']}
+venerability	{'Noun': ['the quality of deserving veneration']}
+venerable	{'Adjective': ['impressive by reason of age', 'profoundly honored']}
+venerate	{'Verb': ['regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of']}
+veracity	{'Noun': ['unwillingness to tell lies']}
+verdant	{'Adjective': ['characterized by abundance of verdure']}
+verged	{'Verb': ['border on; come close to']}
+verges	{'Noun': ['a region marking a boundary', 'the limit beyond which something happens or changes', 'a ceremonial or emblematic staff', 'a grass border along a road'], 'Verb': ['border on; come close to']}
+verging	{'Verb': ['border on; come close to']}
+veritable	{'Adjective': ['often used as intensifiers', 'not counterfeit or copied']}
+vestigial	{'Adjective': ['not fully developed in mature animals']}
+vexing	{'Verb': ['cause annoyance in; disturb, especially by minor irritations', 'disturb the peace of mind of; afflict with mental agitation or distress', 'change the arrangement or position of', 'subject to prolonged examination, discussion, or deliberation', 'be a mystery or bewildering to'], 'Adjective': ['extremely annoying or displeasing', 'causing irritation or annoyance']}
+viable	{'Adjective': ['capable of being done with means at hand and circumstances as they are', 'capable of life or normal growth and development']}
+vicissitude	{'Noun': ['a variation in circumstances or fortune at different times in your life or in the development of something', 'mutability in life or nature (especially successive alternation from one condition to another']}
+vigorous	{'Adjective': ['characterized by forceful and energetic action or activity', 'strong and active physically or mentally']}
+vindicated	{'Verb': ['show to be right by providing justification or proof', 'maintain, uphold, or defend', 'clear of accusation, blame, suspicion, or doubt with supporting proof'], 'Adjective': ['freed from any question of guilt']}
+vindictiveness	{'Noun': ['a malevolent desire for revenge']}
+virulence	{'Noun': ['extreme harmfulness (as the capacity of a microorganism to cause disease', 'extreme hostility']}
+vitality	{'Noun': ['an energetic style', 'a healthy capacity for vigorous activity', '(biology', 'not physical or chemical', 'the property of being able to survive and grow']}
+vitreous	{'Adjective': ['of or relating to or constituting the vitreous humor of the eye', 'relating to or resembling or derived from or containing glass', '(of ceramics']}
+vituperations	{'Noun': ['abusive or venomous language used to express blame or censure or bitter deep-seated ill will']}
+vivacious	{'Adjective': ['vigorous and animated']}
+vociferous	{'Adjective': ['conspicuously and offensively loud; given to vehement outcry']}
+volatile	{'Noun': ['a volatile substance; a substance that changes readily from solid or liquid to a vapor'], 'Adjective': ['evaporating readily at normal temperatures and pressures', 'liable to lead to sudden change or violence', 'marked by erratic changeableness in affections or attachments', 'tending to vary often or widely']}
+vulgar	{'Adjective': ['lacking refinement or cultivation or taste', 'of or associated with the great masses of people', 'being or characteristic of or appropriate to everyday language', 'conspicuously and tastelessly indecent']}
+wag	{'Noun': ['a witty amusing person who makes jokes', 'causing to move repeatedly from side to side'], 'Verb': ['move from side to side']}
+waning	{'Noun': ['a gradual decrease in magnitude or extent'], 'Verb': ['grow smaller', 'become smaller', 'decrease in phase'], 'Adjective': ['(of the Moon']}
+ward	"{'Noun': ['a person who is under the protection or in the custody of another', 'a district into which a city or town is divided for the purpose of administration and elections', 'block forming a division of a hospital (or a suite of rooms', 'English economist and conservationist (1914-1981', ""English writer of novels who was an active opponent of the women's suffrage movement (1851-1920"", 'United States businessman who in 1872 established a successful mail-order business (1843-1913', 'a division of a prison (usually consisting of several cells'], 'Verb': ['watch over or shield from danger or harm; protect']}"
+wax	{'Noun': ['any of various substances of either mineral origin or plant or animal origin; they are solid at normal temperatures and insoluble in water'], 'Verb': ['cover with wax', 'go up or advance', 'increase in phase']}
+whet	{'Verb': ['make keen or more acute', 'sharpen by rubbing, as on a whetstone']}
+whimsical	{'Adjective': ['determined by chance or impulse or whim rather than by necessity or reason']}
+whitewash	{'Noun': ['a defeat in which the losing person or team fails to score', 'wash consisting of lime and size in water; used for whitening walls and other surfaces', 'a specious or deceptive clearing that attempts to gloss over failings and defects'], 'Verb': ['cover up a misdemeanor, fault, or error', 'cover with whitewash', 'exonerate by means of a perfunctory investigation or through biased presentation of data']}
+winsome	{'Adjective': ['charming in a childlike or naive way']}
+witticisms	{'Noun': ['a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter']}
+wracked	{'Verb': ['smash or break forcefully']}
+wry	{'Adjective': ['humorously sarcastic or mocking', 'bent to one side']}
+xenophobia	{'Noun': ['a fear of foreigners or strangers']}
+zeal	{'Noun': ['a feeling of strong eagerness (usually in favor of a person or cause', 'excessive fervor to do something or accomplish some end', 'prompt willingness']}
+zealots	{'Noun': ['a member of an ancient Jewish sect in Judea in the first century who fought to the death against the Romans and who killed or persecuted Jews who collaborated with the Romans', 'a fervent and even militant proponent of something']}
