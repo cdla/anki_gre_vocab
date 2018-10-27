@@ -1,6 +1,7 @@
 import argparse
 from PyDictionary import PyDictionary
 import csv
+import random
 
 class Anki(object):
 
@@ -70,12 +71,11 @@ class Anki(object):
     def sentence_mode(self):
         import tkinter
         from tkinter import simpledialog
-        import random
 
-        application_window = tkinter.Tk()
-        application_window.attributes("-topmost", True)
-        application_window.lift()
-        application_window.withdraw()
+        tk_window = tkinter.Tk()
+        tk_window.withdraw()
+        tk_window.deiconify()
+
 
         word_list=list()
 
@@ -88,9 +88,29 @@ class Anki(object):
         random.shuffle(test_idxs)
 
         for idx in test_idxs:
-            sentence = simpledialog.askstring("Input","Write a sentence for the word: \n \n %s \n %s"%(word_list[idx][0],word_list[idx][1]), parent = application_window)
-
+            sentence = simpledialog.askstring("Input","Write a sentence for the word: \n \n %s \n %s"%(word_list[idx][0],word_list[idx][1]), parent = tk_window)
         return self
+
+    def sentence_no_gui_mode(self):
+        word_list=list()
+        with open(self.output_file,"r") as csvfile:
+            reader = csv.reader(csvfile, delimiter='\t')
+            for row in reader:
+                word_list.append(row)
+
+        test_idxs = list(range(len(word_list)))
+        random.shuffle(test_idxs)
+
+        for idx in test_idxs:
+            print("***********************************************************")
+            print("Write a sentence for the word:")
+            print(" ")
+            print(word_list[idx][0])
+            print(word_list[idx][1])
+            print(" ")
+            test = input("sentence: ")
+
+
 
 if __name__ == "__main__":
 
@@ -107,7 +127,8 @@ if __name__ == "__main__":
                         action="store_true", help='manually edit mode allows for the editing of an existing deck file to manually edit definitions')
     parser.add_argument('-v','--verbose', dest='verbose',default=False,
                         action="store_true", help='verbose mode')
-    parser.add_argument('--sentence', dest='sentence_mode', default = False, action="store_true", help="sentence mode for learning words")
+    parser.add_argument('--sentence', dest='sentence_mode', default = False, action="store_true", help="sentence mode for learning words, dependency: tkinter required.")
+    parser.add_argument('--sentence_no_gui', dest='sentence_no_gui_mode', default = False, action = "store_true", help = "no gui sentence mode for learning words")
 
     args = parser.parse_args()
 
@@ -117,6 +138,9 @@ if __name__ == "__main__":
     elif args.sentence_mode == True:
         anki = Anki(args.vocab_file, args.output_file,args.error_file)
         sentences = anki.sentence_mode()
+    elif args.sentence_no_gui_mode == True:
+        anki = Anki(args.vocab_file, args.output_file, args.error_file)
+        sentences = anki.sentence_no_gui_mode()
     else:
         anki = Anki(args.vocab_file, args.output_file,args.error_file)
         vocab_list = anki.read_vocab_file()
