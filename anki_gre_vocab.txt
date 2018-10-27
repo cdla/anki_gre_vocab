@@ -1,4 +1,3 @@
-sangfroidperilouslicentiousebullientabasement
 abated	{'Verb': ['make less active or intense', 'become less in amount or intensity']}
 aberrant	{'Noun': ['one whose behavior departs substantially from the norm of a group'], 'Adjective': ['markedly different from an accepted norm']}
 abhor	{'Verb': ['find repugnant']}
@@ -273,7 +272,7 @@ credence	{'Noun': ['the mental attitude that something is believable and should 
 credible	"{'Adjective': ['capable of being believed', ""(a common but incorrect usage where `credulous' would be appropriate"", 'appearing to merit belief or acceptance']}"
 credulous	{'Adjective': ['disposed to believe on little evidence', 'showing a lack of judgment or experience']}
 croquet	"{'Noun': ['a game in which players hit a wooden ball through a series of hoops; the winner is the first to traverse all the hoops and hit a peg'], 'Verb': [""drive away by hitting with one's ball"", 'play a game in which players hit a wooden ball through a series of hoops']}"
-crouchback	
+crouchback
 cubist	{'Noun': ['an artist who adheres to the principles of cubism'], 'Adjective': ['relating to or characteristic of cubism']}
 culminate	{'Verb': ['end, especially to reach a final or climactic stage', 'bring to a head or to the highest point', 'reach the highest or most decisive point', 'reach the highest altitude or the meridian, of a celestial body', 'rise to, or form, a summit']}
 culmination	{'Noun': ['a final climactic stage', '(astronomy', 'the decisive moment in a novel or play', 'a concluding action']}

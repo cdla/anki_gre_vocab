@@ -39,12 +39,34 @@ class Anki(object):
 
     def write_errors(self,error_list,verbose):
         with open(self.error_file,"w") as csvfile:
-            writer = csvwriter(csvfile, delimiter = '\t')
+            writer = csv.writer(csvfile, delimiter = '\t')
             for err in error_list:
                 writer.writerow(err)
         if verbose:
-            print("error log has beenw written.")
+            print("error log has been written.")
         return self.error_file
+
+    def edit_cards(self):
+        word_edits=list()
+        words=list()
+        defs=list()
+        with open(self.output_file,"r") as csvfile:
+            reader = csv.reader(csvfile, delimiter='\t')
+            for row in reader:
+                if len(row) == 2:
+                    words.append(row[0])
+                    defs.append(row[1])
+                else:
+                    word_edits.append(row[0])
+
+        for edit in word_edits:
+            print("\n")
+            defin = input("definition for %s: "%edit)
+            words.append(edit)
+            defs.append(defin)
+
+        return self
+
 
 if __name__ == "__main__":
 
@@ -64,11 +86,13 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    if ~args.edit_mode:
+    if args.edit_mode == False:
         anki = Anki(args.vocab_file, args.output_file,args.error_file)
         vocab_list = anki.read_vocab_file()
         defs_list, error_list = anki.define_vocab(vocab_list, args.verbose)
         anki_deck = anki.make_deck(vocab_list,defs_list,args.verbose)
         error_log = anki.write_errors(error_list,args.verbose)
+
     else:
-        print('edit mode in progress')
+        anki = Anki(args.vocab_file, args.output_file,args.error_file)
+        defs_list = anki.edit_cards()
