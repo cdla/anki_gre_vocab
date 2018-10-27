@@ -70,13 +70,25 @@ class Anki(object):
     def sentence_mode(self):
         import tkinter
         from tkinter import simpledialog
+        import random
 
         application_window = tkinter.Tk()
+        application_window.attributes("-topmost", True)
+        application_window.lift()
+        application_window.withdraw()
+
+        word_list=list()
+
         with open(self.output_file,"r") as csvfile:
             reader = csv.reader(csvfile, delimiter='\t')
             for row in reader:
-                test = simpledialog.askstring("Input",
-        "Write a sentence for the word: \n \n %s \n %s"%(row[0],row[1]), parent = application_window)
+                word_list.append(row)
+
+        test_idxs = list(range(len(word_list)))
+        random.shuffle(test_idxs)
+
+        for idx in test_idxs:
+            sentence = simpledialog.askstring("Input","Write a sentence for the word: \n \n %s \n %s"%(word_list[idx][0],word_list[idx][1]), parent = application_window)
 
         return self
 
