@@ -5,6 +5,7 @@ This repository contains a script make_cards.py that makes GRE vocabulary flash 
 ## Dependencies:
 
 To use the docker workflow
+
 - Docker
 
 or
@@ -14,6 +15,10 @@ To use the python script:
 - requests
 - goslate
 - PyDictionary
+
+Of note: beautiful soup will prompt a user message asks to add a parser to use by passing the argument 'features="html.parser"'. Change this line within the utils.py of PyDictionary in order to have the python script work.
+
+Recommended Usage: the docker version
 
 ## Usage
 
@@ -26,8 +31,6 @@ run the python script make_cards.py
 ```
 python make_cards.py
 
-usage: make_cards.py [-h] [-o output_file] vocab_file
-
 This script makes anki flash cards from a text file of vocab words.
 
 positional arguments:
@@ -36,7 +39,12 @@ positional arguments:
 optional arguments:
   -h, --help            show this help message and exit
   -o output_file, --output_file output_file
-                        output anki deck txt file`
+                        output anki deck txt file
+  -e error_file, --error_file error_file
+                        error file for the words that there were no
+                        definitions
+  -m, --edit_mode       manually edit mode allows for the editing of an
+                        existing deck file to manually edit definitions
 ```
 
 ## TODO:  

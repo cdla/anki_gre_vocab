@@ -61,4 +61,4 @@ if __name__ == "__main__":
         anki_deck = anki.make_deck(vocab_list,defs_list)
         error_log = anki.write_errors(error_list)
     else:
-        continue
+        print('edit mode in progress')
